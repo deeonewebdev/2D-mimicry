@@ -1,0 +1,45 @@
+# Binaries
+extractor
+generator
+2d-extractor
+2d-generator
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Dependency directories
+vendor/
+
+# Go workspace file
+go.work
+go.work.sum
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Extractor/generator output files (optional – you may want to keep them)
+# character-frequency-*.json
+# fingerprint-*.json
+# transition-*.json
+# fingerprint-pairs-*.txt
