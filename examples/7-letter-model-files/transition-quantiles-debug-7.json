@@ -1,0 +1,2966 @@
+{
+  "a": [
+    [
+      {
+        "char": "n",
+        "freq": 8650
+      },
+      {
+        "char": "r",
+        "freq": 7963
+      },
+      {
+        "char": "l",
+        "freq": 6065
+      },
+      {
+        "char": "s",
+        "freq": 5019
+      },
+      {
+        "char": "m",
+        "freq": 4037
+      },
+      {
+        "char": "t",
+        "freq": 3973
+      },
+      {
+        "char": "c",
+        "freq": 3739
+      }
+    ],
+    [
+      {
+        "char": "i",
+        "freq": 3348
+      },
+      {
+        "char": "w",
+        "freq": 2703
+      },
+      {
+        "char": "d",
+        "freq": 2622
+      },
+      {
+        "char": "p",
+        "freq": 2176
+      },
+      {
+        "char": "b",
+        "freq": 2156
+      },
+      {
+        "char": "g",
+        "freq": 1929
+      },
+      {
+        "char": "y",
+        "freq": 1579
+      }
+    ],
+    [
+      {
+        "char": "v",
+        "freq": 1494
+      },
+      {
+        "char": "u",
+        "freq": 1422
+      },
+      {
+        "char": "k",
+        "freq": 1356
+      },
+      {
+        "char": "f",
+        "freq": 1048
+      },
+      {
+        "char": "h",
+        "freq": 901
+      },
+      {
+        "char": "x",
+        "freq": 874
+      }
+    ],
+    [
+      {
+        "char": "a",
+        "freq": 852
+      },
+      {
+        "char": "e",
+        "freq": 813
+      },
+      {
+        "char": "z",
+        "freq": 705
+      },
+      {
+        "char": "j",
+        "freq": 392
+      },
+      {
+        "char": "o",
+        "freq": 376
+      },
+      {
+        "char": "q",
+        "freq": 214
+      }
+    ]
+  ],
+  "b": [
+    [
+      {
+        "char": "a",
+        "freq": 2820
+      },
+      {
+        "char": "e",
+        "freq": 2371
+      },
+      {
+        "char": "i",
+        "freq": 1860
+      },
+      {
+        "char": "o",
+        "freq": 1818
+      },
+      {
+        "char": "r",
+        "freq": 1352
+      },
+      {
+        "char": "l",
+        "freq": 1018
+      },
+      {
+        "char": "s",
+        "freq": 998
+      }
+    ],
+    [
+      {
+        "char": "u",
+        "freq": 911
+      },
+      {
+        "char": "c",
+        "freq": 676
+      },
+      {
+        "char": "b",
+        "freq": 586
+      },
+      {
+        "char": "m",
+        "freq": 389
+      },
+      {
+        "char": "y",
+        "freq": 335
+      },
+      {
+        "char": "t",
+        "freq": 324
+      },
+      {
+        "char": "h",
+        "freq": 268
+      }
+    ],
+    [
+      {
+        "char": "d",
+        "freq": 256
+      },
+      {
+        "char": "g",
+        "freq": 247
+      },
+      {
+        "char": "p",
+        "freq": 247
+      },
+      {
+        "char": "n",
+        "freq": 156
+      },
+      {
+        "char": "f",
+        "freq": 149
+      },
+      {
+        "char": "w",
+        "freq": 148
+      }
+    ],
+    [
+      {
+        "char": "k",
+        "freq": 124
+      },
+      {
+        "char": "j",
+        "freq": 91
+      },
+      {
+        "char": "v",
+        "freq": 90
+      },
+      {
+        "char": "z",
+        "freq": 42
+      },
+      {
+        "char": "q",
+        "freq": 28
+      },
+      {
+        "char": "x",
+        "freq": 27
+      }
+    ]
+  ],
+  "c": [
+    [
+      {
+        "char": "o",
+        "freq": 8072
+      },
+      {
+        "char": "a",
+        "freq": 4177
+      },
+      {
+        "char": "h",
+        "freq": 4064
+      },
+      {
+        "char": "e",
+        "freq": 1921
+      },
+      {
+        "char": "i",
+        "freq": 1721
+      },
+      {
+        "char": "k",
+        "freq": 1392
+      },
+      {
+        "char": "s",
+        "freq": 1304
+      }
+    ],
+    [
+      {
+        "char": "p",
+        "freq": 1298
+      },
+      {
+        "char": "c",
+        "freq": 1267
+      },
+      {
+        "char": "r",
+        "freq": 1180
+      },
+      {
+        "char": "l",
+        "freq": 1179
+      },
+      {
+        "char": "t",
+        "freq": 966
+      },
+      {
+        "char": "u",
+        "freq": 792
+      },
+      {
+        "char": "m",
+        "freq": 754
+      }
+    ],
+    [
+      {
+        "char": "b",
+        "freq": 458
+      },
+      {
+        "char": "n",
+        "freq": 453
+      },
+      {
+        "char": "g",
+        "freq": 375
+      },
+      {
+        "char": "f",
+        "freq": 357
+      },
+      {
+        "char": "d",
+        "freq": 352
+      },
+      {
+        "char": "y",
+        "freq": 285
+      }
+    ],
+    [
+      {
+        "char": "w",
+        "freq": 213
+      },
+      {
+        "char": "v",
+        "freq": 161
+      },
+      {
+        "char": "j",
+        "freq": 101
+      },
+      {
+        "char": "z",
+        "freq": 65
+      },
+      {
+        "char": "q",
+        "freq": 55
+      },
+      {
+        "char": "x",
+        "freq": 28
+      }
+    ]
+  ],
+  "d": [
+    [
+      {
+        "char": "e",
+        "freq": 3481
+      },
+      {
+        "char": "a",
+        "freq": 2793
+      },
+      {
+        "char": "i",
+        "freq": 2583
+      },
+      {
+        "char": "o",
+        "freq": 1832
+      },
+      {
+        "char": "s",
+        "freq": 1196
+      },
+      {
+        "char": "r",
+        "freq": 957
+      },
+      {
+        "char": "c",
+        "freq": 768
+      }
+    ],
+    [
+      {
+        "char": "u",
+        "freq": 698
+      },
+      {
+        "char": "l",
+        "freq": 558
+      },
+      {
+        "char": "m",
+        "freq": 549
+      },
+      {
+        "char": "y",
+        "freq": 542
+      },
+      {
+        "char": "d",
+        "freq": 469
+      },
+      {
+        "char": "g",
+        "freq": 399
+      },
+      {
+        "char": "t",
+        "freq": 329
+      }
+    ],
+    [
+      {
+        "char": "b",
+        "freq": 328
+      },
+      {
+        "char": "f",
+        "freq": 328
+      },
+      {
+        "char": "p",
+        "freq": 318
+      },
+      {
+        "char": "h",
+        "freq": 291
+      },
+      {
+        "char": "v",
+        "freq": 270
+      },
+      {
+        "char": "w",
+        "freq": 257
+      }
+    ],
+    [
+      {
+        "char": "j",
+        "freq": 205
+      },
+      {
+        "char": "n",
+        "freq": 199
+      },
+      {
+        "char": "k",
+        "freq": 160
+      },
+      {
+        "char": "z",
+        "freq": 89
+      },
+      {
+        "char": "x",
+        "freq": 66
+      },
+      {
+        "char": "q",
+        "freq": 24
+      }
+    ]
+  ],
+  "e": [
+    [
+      {
+        "char": "r",
+        "freq": 7298
+      },
+      {
+        "char": "n",
+        "freq": 5865
+      },
+      {
+        "char": "l",
+        "freq": 5192
+      },
+      {
+        "char": "s",
+        "freq": 4585
+      },
+      {
+        "char": "c",
+        "freq": 4206
+      },
+      {
+        "char": "t",
+        "freq": 3669
+      },
+      {
+        "char": "a",
+        "freq": 2865
+      }
+    ],
+    [
+      {
+        "char": "d",
+        "freq": 2483
+      },
+      {
+        "char": "m",
+        "freq": 2394
+      },
+      {
+        "char": "x",
+        "freq": 2247
+      },
+      {
+        "char": "e",
+        "freq": 1867
+      },
+      {
+        "char": "b",
+        "freq": 1384
+      },
+      {
+        "char": "i",
+        "freq": 1317
+      },
+      {
+        "char": "k",
+        "freq": 1178
+      }
+    ],
+    [
+      {
+        "char": "p",
+        "freq": 1171
+      },
+      {
+        "char": "v",
+        "freq": 1129
+      },
+      {
+        "char": "g",
+        "freq": 1121
+      },
+      {
+        "char": "y",
+        "freq": 1000
+      },
+      {
+        "char": "o",
+        "freq": 933
+      },
+      {
+        "char": "w",
+        "freq": 784
+      }
+    ],
+    [
+      {
+        "char": "f",
+        "freq": 703
+      },
+      {
+        "char": "u",
+        "freq": 579
+      },
+      {
+        "char": "h",
+        "freq": 417
+      },
+      {
+        "char": "z",
+        "freq": 399
+      },
+      {
+        "char": "q",
+        "freq": 247
+      },
+      {
+        "char": "j",
+        "freq": 220
+      }
+    ]
+  ],
+  "f": [
+    [
+      {
+        "char": "i",
+        "freq": 1664
+      },
+      {
+        "char": "o",
+        "freq": 1505
+      },
+      {
+        "char": "a",
+        "freq": 1341
+      },
+      {
+        "char": "e",
+        "freq": 981
+      },
+      {
+        "char": "l",
+        "freq": 790
+      },
+      {
+        "char": "t",
+        "freq": 734
+      },
+      {
+        "char": "r",
+        "freq": 719
+      }
+    ],
+    [
+      {
+        "char": "f",
+        "freq": 614
+      },
+      {
+        "char": "u",
+        "freq": 481
+      },
+      {
+        "char": "s",
+        "freq": 436
+      },
+      {
+        "char": "c",
+        "freq": 362
+      },
+      {
+        "char": "g",
+        "freq": 345
+      },
+      {
+        "char": "m",
+        "freq": 305
+      },
+      {
+        "char": "p",
+        "freq": 191
+      }
+    ],
+    [
+      {
+        "char": "d",
+        "freq": 171
+      },
+      {
+        "char": "b",
+        "freq": 153
+      },
+      {
+        "char": "w",
+        "freq": 125
+      },
+      {
+        "char": "n",
+        "freq": 118
+      },
+      {
+        "char": "x",
+        "freq": 109
+      },
+      {
+        "char": "y",
+        "freq": 103
+      }
+    ],
+    [
+      {
+        "char": "h",
+        "freq": 88
+      },
+      {
+        "char": "k",
+        "freq": 77
+      },
+      {
+        "char": "j",
+        "freq": 59
+      },
+      {
+        "char": "v",
+        "freq": 43
+      },
+      {
+        "char": "z",
+        "freq": 29
+      },
+      {
+        "char": "q",
+        "freq": 5
+      }
+    ]
+  ],
+  "g": [
+    [
+      {
+        "char": "e",
+        "freq": 2242
+      },
+      {
+        "char": "a",
+        "freq": 2036
+      },
+      {
+        "char": "o",
+        "freq": 1690
+      },
+      {
+        "char": "r",
+        "freq": 1673
+      },
+      {
+        "char": "i",
+        "freq": 1324
+      },
+      {
+        "char": "l",
+        "freq": 953
+      },
+      {
+        "char": "u",
+        "freq": 738
+      }
+    ],
+    [
+      {
+        "char": "s",
+        "freq": 627
+      },
+      {
+        "char": "m",
+        "freq": 608
+      },
+      {
+        "char": "h",
+        "freq": 476
+      },
+      {
+        "char": "n",
+        "freq": 417
+      },
+      {
+        "char": "c",
+        "freq": 413
+      },
+      {
+        "char": "t",
+        "freq": 408
+      },
+      {
+        "char": "g",
+        "freq": 331
+      }
+    ],
+    [
+      {
+        "char": "p",
+        "freq": 296
+      },
+      {
+        "char": "b",
+        "freq": 240
+      },
+      {
+        "char": "y",
+        "freq": 239
+      },
+      {
+        "char": "d",
+        "freq": 210
+      },
+      {
+        "char": "w",
+        "freq": 169
+      },
+      {
+        "char": "f",
+        "freq": 158
+      }
+    ],
+    [
+      {
+        "char": "j",
+        "freq": 77
+      },
+      {
+        "char": "v",
+        "freq": 71
+      },
+      {
+        "char": "k",
+        "freq": 66
+      },
+      {
+        "char": "z",
+        "freq": 49
+      },
+      {
+        "char": "x",
+        "freq": 16
+      },
+      {
+        "char": "q",
+        "freq": 10
+      }
+    ]
+  ],
+  "h": [
+    [
+      {
+        "char": "a",
+        "freq": 2899
+      },
+      {
+        "char": "e",
+        "freq": 2443
+      },
+      {
+        "char": "o",
+        "freq": 2319
+      },
+      {
+        "char": "i",
+        "freq": 1877
+      },
+      {
+        "char": "u",
+        "freq": 711
+      },
+      {
+        "char": "r",
+        "freq": 541
+      },
+      {
+        "char": "l",
+        "freq": 469
+      }
+    ],
+    [
+      {
+        "char": "c",
+        "freq": 437
+      },
+      {
+        "char": "s",
+        "freq": 435
+      },
+      {
+        "char": "m",
+        "freq": 365
+      },
+      {
+        "char": "t",
+        "freq": 357
+      },
+      {
+        "char": "n",
+        "freq": 295
+      },
+      {
+        "char": "y",
+        "freq": 292
+      },
+      {
+        "char": "b",
+        "freq": 227
+      }
+    ],
+    [
+      {
+        "char": "p",
+        "freq": 209
+      },
+      {
+        "char": "k",
+        "freq": 202
+      },
+      {
+        "char": "d",
+        "freq": 191
+      },
+      {
+        "char": "h",
+        "freq": 183
+      },
+      {
+        "char": "w",
+        "freq": 167
+      },
+      {
+        "char": "f",
+        "freq": 144
+      }
+    ],
+    [
+      {
+        "char": "v",
+        "freq": 140
+      },
+      {
+        "char": "g",
+        "freq": 129
+      },
+      {
+        "char": "j",
+        "freq": 78
+      },
+      {
+        "char": "q",
+        "freq": 48
+      },
+      {
+        "char": "x",
+        "freq": 37
+      },
+      {
+        "char": "z",
+        "freq": 28
+      }
+    ]
+  ],
+  "i": [
+    [
+      {
+        "char": "n",
+        "freq": 10090
+      },
+      {
+        "char": "s",
+        "freq": 4002
+      },
+      {
+        "char": "l",
+        "freq": 3831
+      },
+      {
+        "char": "t",
+        "freq": 3810
+      },
+      {
+        "char": "c",
+        "freq": 3046
+      },
+      {
+        "char": "m",
+        "freq": 2470
+      },
+      {
+        "char": "a",
+        "freq": 2358
+      }
+    ],
+    [
+      {
+        "char": "r",
+        "freq": 2243
+      },
+      {
+        "char": "d",
+        "freq": 1732
+      },
+      {
+        "char": "o",
+        "freq": 1518
+      },
+      {
+        "char": "e",
+        "freq": 1433
+      },
+      {
+        "char": "g",
+        "freq": 1413
+      },
+      {
+        "char": "p",
+        "freq": 1367
+      },
+      {
+        "char": "v",
+        "freq": 926
+      }
+    ],
+    [
+      {
+        "char": "k",
+        "freq": 847
+      },
+      {
+        "char": "b",
+        "freq": 820
+      },
+      {
+        "char": "f",
+        "freq": 795
+      },
+      {
+        "char": "x",
+        "freq": 750
+      },
+      {
+        "char": "z",
+        "freq": 642
+      },
+      {
+        "char": "u",
+        "freq": 376
+      }
+    ],
+    [
+      {
+        "char": "i",
+        "freq": 314
+      },
+      {
+        "char": "h",
+        "freq": 229
+      },
+      {
+        "char": "w",
+        "freq": 228
+      },
+      {
+        "char": "j",
+        "freq": 206
+      },
+      {
+        "char": "q",
+        "freq": 144
+      },
+      {
+        "char": "y",
+        "freq": 112
+      }
+    ]
+  ],
+  "j": [
+    [
+      {
+        "char": "a",
+        "freq": 939
+      },
+      {
+        "char": "o",
+        "freq": 852
+      },
+      {
+        "char": "e",
+        "freq": 592
+      },
+      {
+        "char": "i",
+        "freq": 362
+      },
+      {
+        "char": "u",
+        "freq": 268
+      },
+      {
+        "char": "s",
+        "freq": 237
+      },
+      {
+        "char": "m",
+        "freq": 213
+      }
+    ],
+    [
+      {
+        "char": "c",
+        "freq": 211
+      },
+      {
+        "char": "b",
+        "freq": 189
+      },
+      {
+        "char": "l",
+        "freq": 166
+      },
+      {
+        "char": "p",
+        "freq": 165
+      },
+      {
+        "char": "d",
+        "freq": 161
+      },
+      {
+        "char": "r",
+        "freq": 141
+      },
+      {
+        "char": "h",
+        "freq": 134
+      }
+    ],
+    [
+      {
+        "char": "t",
+        "freq": 122
+      },
+      {
+        "char": "k",
+        "freq": 110
+      },
+      {
+        "char": "g",
+        "freq": 109
+      },
+      {
+        "char": "f",
+        "freq": 107
+      },
+      {
+        "char": "w",
+        "freq": 101
+      },
+      {
+        "char": "j",
+        "freq": 90
+      }
+    ],
+    [
+      {
+        "char": "n",
+        "freq": 81
+      },
+      {
+        "char": "v",
+        "freq": 50
+      },
+      {
+        "char": "y",
+        "freq": 21
+      },
+      {
+        "char": "z",
+        "freq": 15
+      },
+      {
+        "char": "x",
+        "freq": 10
+      },
+      {
+        "char": "q",
+        "freq": 3
+      }
+    ]
+  ],
+  "k": [
+    [
+      {
+        "char": "a",
+        "freq": 1810
+      },
+      {
+        "char": "e",
+        "freq": 1723
+      },
+      {
+        "char": "i",
+        "freq": 1383
+      },
+      {
+        "char": "o",
+        "freq": 1144
+      },
+      {
+        "char": "s",
+        "freq": 741
+      },
+      {
+        "char": "l",
+        "freq": 505
+      },
+      {
+        "char": "u",
+        "freq": 408
+      }
+    ],
+    [
+      {
+        "char": "r",
+        "freq": 401
+      },
+      {
+        "char": "c",
+        "freq": 393
+      },
+      {
+        "char": "t",
+        "freq": 354
+      },
+      {
+        "char": "y",
+        "freq": 354
+      },
+      {
+        "char": "m",
+        "freq": 313
+      },
+      {
+        "char": "n",
+        "freq": 259
+      },
+      {
+        "char": "h",
+        "freq": 258
+      }
+    ],
+    [
+      {
+        "char": "k",
+        "freq": 171
+      },
+      {
+        "char": "b",
+        "freq": 167
+      },
+      {
+        "char": "d",
+        "freq": 166
+      },
+      {
+        "char": "p",
+        "freq": 165
+      },
+      {
+        "char": "w",
+        "freq": 162
+      },
+      {
+        "char": "g",
+        "freq": 134
+      }
+    ],
+    [
+      {
+        "char": "f",
+        "freq": 112
+      },
+      {
+        "char": "j",
+        "freq": 81
+      },
+      {
+        "char": "v",
+        "freq": 63
+      },
+      {
+        "char": "z",
+        "freq": 27
+      },
+      {
+        "char": "x",
+        "freq": 19
+      },
+      {
+        "char": "q",
+        "freq": 3
+      }
+    ]
+  ],
+  "l": [
+    [
+      {
+        "char": "a",
+        "freq": 6822
+      },
+      {
+        "char": "e",
+        "freq": 4606
+      },
+      {
+        "char": "i",
+        "freq": 3915
+      },
+      {
+        "char": "l",
+        "freq": 3435
+      },
+      {
+        "char": "o",
+        "freq": 2679
+      },
+      {
+        "char": "c",
+        "freq": 1585
+      },
+      {
+        "char": "t",
+        "freq": 1475
+      }
+    ],
+    [
+      {
+        "char": "u",
+        "freq": 1412
+      },
+      {
+        "char": "s",
+        "freq": 1314
+      },
+      {
+        "char": "d",
+        "freq": 904
+      },
+      {
+        "char": "y",
+        "freq": 796
+      },
+      {
+        "char": "m",
+        "freq": 783
+      },
+      {
+        "char": "p",
+        "freq": 616
+      },
+      {
+        "char": "f",
+        "freq": 530
+      }
+    ],
+    [
+      {
+        "char": "b",
+        "freq": 479
+      },
+      {
+        "char": "k",
+        "freq": 378
+      },
+      {
+        "char": "v",
+        "freq": 363
+      },
+      {
+        "char": "g",
+        "freq": 326
+      },
+      {
+        "char": "r",
+        "freq": 254
+      },
+      {
+        "char": "n",
+        "freq": 221
+      }
+    ],
+    [
+      {
+        "char": "w",
+        "freq": 197
+      },
+      {
+        "char": "h",
+        "freq": 193
+      },
+      {
+        "char": "j",
+        "freq": 92
+      },
+      {
+        "char": "z",
+        "freq": 92
+      },
+      {
+        "char": "x",
+        "freq": 29
+      },
+      {
+        "char": "q",
+        "freq": 27
+      }
+    ]
+  ],
+  "m": [
+    [
+      {
+        "char": "a",
+        "freq": 6958
+      },
+      {
+        "char": "e",
+        "freq": 3790
+      },
+      {
+        "char": "i",
+        "freq": 2604
+      },
+      {
+        "char": "o",
+        "freq": 2243
+      },
+      {
+        "char": "s",
+        "freq": 1416
+      },
+      {
+        "char": "c",
+        "freq": 1306
+      },
+      {
+        "char": "p",
+        "freq": 1212
+      }
+    ],
+    [
+      {
+        "char": "m",
+        "freq": 940
+      },
+      {
+        "char": "t",
+        "freq": 810
+      },
+      {
+        "char": "b",
+        "freq": 802
+      },
+      {
+        "char": "g",
+        "freq": 664
+      },
+      {
+        "char": "l",
+        "freq": 613
+      },
+      {
+        "char": "u",
+        "freq": 579
+      },
+      {
+        "char": "y",
+        "freq": 500
+      }
+    ],
+    [
+      {
+        "char": "r",
+        "freq": 451
+      },
+      {
+        "char": "d",
+        "freq": 420
+      },
+      {
+        "char": "f",
+        "freq": 391
+      },
+      {
+        "char": "h",
+        "freq": 266
+      },
+      {
+        "char": "k",
+        "freq": 264
+      },
+      {
+        "char": "n",
+        "freq": 259
+      }
+    ],
+    [
+      {
+        "char": "w",
+        "freq": 237
+      },
+      {
+        "char": "v",
+        "freq": 129
+      },
+      {
+        "char": "j",
+        "freq": 127
+      },
+      {
+        "char": "x",
+        "freq": 89
+      },
+      {
+        "char": "z",
+        "freq": 61
+      },
+      {
+        "char": "q",
+        "freq": 25
+      }
+    ]
+  ],
+  "n": [
+    [
+      {
+        "char": "e",
+        "freq": 5072
+      },
+      {
+        "char": "c",
+        "freq": 3308
+      },
+      {
+        "char": "t",
+        "freq": 3252
+      },
+      {
+        "char": "a",
+        "freq": 2923
+      },
+      {
+        "char": "d",
+        "freq": 2890
+      },
+      {
+        "char": "i",
+        "freq": 2601
+      },
+      {
+        "char": "s",
+        "freq": 2464
+      }
+    ],
+    [
+      {
+        "char": "o",
+        "freq": 2365
+      },
+      {
+        "char": "g",
+        "freq": 2167
+      },
+      {
+        "char": "k",
+        "freq": 1255
+      },
+      {
+        "char": "n",
+        "freq": 929
+      },
+      {
+        "char": "y",
+        "freq": 664
+      },
+      {
+        "char": "f",
+        "freq": 654
+      },
+      {
+        "char": "u",
+        "freq": 522
+      }
+    ],
+    [
+      {
+        "char": "l",
+        "freq": 480
+      },
+      {
+        "char": "b",
+        "freq": 444
+      },
+      {
+        "char": "p",
+        "freq": 410
+      },
+      {
+        "char": "m",
+        "freq": 409
+      },
+      {
+        "char": "v",
+        "freq": 401
+      },
+      {
+        "char": "r",
+        "freq": 362
+      }
+    ],
+    [
+      {
+        "char": "h",
+        "freq": 329
+      },
+      {
+        "char": "w",
+        "freq": 326
+      },
+      {
+        "char": "z",
+        "freq": 296
+      },
+      {
+        "char": "j",
+        "freq": 241
+      },
+      {
+        "char": "x",
+        "freq": 146
+      },
+      {
+        "char": "q",
+        "freq": 39
+      }
+    ]
+  ],
+  "o": [
+    [
+      {
+        "char": "n",
+        "freq": 5776
+      },
+      {
+        "char": "r",
+        "freq": 5382
+      },
+      {
+        "char": "l",
+        "freq": 3369
+      },
+      {
+        "char": "m",
+        "freq": 3252
+      },
+      {
+        "char": "s",
+        "freq": 2672
+      },
+      {
+        "char": "t",
+        "freq": 2114
+      },
+      {
+        "char": "o",
+        "freq": 2111
+      }
+    ],
+    [
+      {
+        "char": "c",
+        "freq": 1809
+      },
+      {
+        "char": "p",
+        "freq": 1685
+      },
+      {
+        "char": "u",
+        "freq": 1670
+      },
+      {
+        "char": "d",
+        "freq": 1619
+      },
+      {
+        "char": "b",
+        "freq": 1260
+      },
+      {
+        "char": "f",
+        "freq": 1193
+      },
+      {
+        "char": "g",
+        "freq": 1189
+      }
+    ],
+    [
+      {
+        "char": "w",
+        "freq": 1140
+      },
+      {
+        "char": "v",
+        "freq": 1091
+      },
+      {
+        "char": "i",
+        "freq": 852
+      },
+      {
+        "char": "a",
+        "freq": 785
+      },
+      {
+        "char": "k",
+        "freq": 671
+      },
+      {
+        "char": "e",
+        "freq": 637
+      }
+    ],
+    [
+      {
+        "char": "h",
+        "freq": 580
+      },
+      {
+        "char": "y",
+        "freq": 556
+      },
+      {
+        "char": "x",
+        "freq": 540
+      },
+      {
+        "char": "z",
+        "freq": 295
+      },
+      {
+        "char": "j",
+        "freq": 175
+      },
+      {
+        "char": "q",
+        "freq": 63
+      }
+    ]
+  ],
+  "p": [
+    [
+      {
+        "char": "a",
+        "freq": 3589
+      },
+      {
+        "char": "r",
+        "freq": 2296
+      },
+      {
+        "char": "e",
+        "freq": 2213
+      },
+      {
+        "char": "o",
+        "freq": 1598
+      },
+      {
+        "char": "i",
+        "freq": 1532
+      },
+      {
+        "char": "l",
+        "freq": 1360
+      },
+      {
+        "char": "s",
+        "freq": 1196
+      }
+    ],
+    [
+      {
+        "char": "c",
+        "freq": 906
+      },
+      {
+        "char": "h",
+        "freq": 784
+      },
+      {
+        "char": "t",
+        "freq": 735
+      },
+      {
+        "char": "p",
+        "freq": 685
+      },
+      {
+        "char": "u",
+        "freq": 555
+      },
+      {
+        "char": "m",
+        "freq": 517
+      },
+      {
+        "char": "d",
+        "freq": 268
+      }
+    ],
+    [
+      {
+        "char": "g",
+        "freq": 248
+      },
+      {
+        "char": "f",
+        "freq": 213
+      },
+      {
+        "char": "n",
+        "freq": 192
+      },
+      {
+        "char": "b",
+        "freq": 189
+      },
+      {
+        "char": "w",
+        "freq": 182
+      },
+      {
+        "char": "y",
+        "freq": 163
+      }
+    ],
+    [
+      {
+        "char": "k",
+        "freq": 143
+      },
+      {
+        "char": "v",
+        "freq": 95
+      },
+      {
+        "char": "j",
+        "freq": 82
+      },
+      {
+        "char": "x",
+        "freq": 30
+      },
+      {
+        "char": "z",
+        "freq": 22
+      },
+      {
+        "char": "q",
+        "freq": 12
+      }
+    ]
+  ],
+  "q": [
+    [
+      {
+        "char": "u",
+        "freq": 809
+      },
+      {
+        "char": "i",
+        "freq": 91
+      },
+      {
+        "char": "a",
+        "freq": 81
+      },
+      {
+        "char": "s",
+        "freq": 66
+      },
+      {
+        "char": "c",
+        "freq": 59
+      },
+      {
+        "char": "l",
+        "freq": 44
+      },
+      {
+        "char": "m",
+        "freq": 42
+      }
+    ],
+    [
+      {
+        "char": "t",
+        "freq": 37
+      },
+      {
+        "char": "p",
+        "freq": 36
+      },
+      {
+        "char": "d",
+        "freq": 33
+      },
+      {
+        "char": "b",
+        "freq": 25
+      },
+      {
+        "char": "e",
+        "freq": 24
+      },
+      {
+        "char": "f",
+        "freq": 22
+      },
+      {
+        "char": "r",
+        "freq": 22
+      }
+    ],
+    [
+      {
+        "char": "o",
+        "freq": 20
+      },
+      {
+        "char": "w",
+        "freq": 20
+      },
+      {
+        "char": "n",
+        "freq": 18
+      },
+      {
+        "char": "h",
+        "freq": 15
+      },
+      {
+        "char": "v",
+        "freq": 13
+      },
+      {
+        "char": "g",
+        "freq": 12
+      }
+    ],
+    [
+      {
+        "char": "q",
+        "freq": 6
+      },
+      {
+        "char": "k",
+        "freq": 5
+      },
+      {
+        "char": "y",
+        "freq": 5
+      },
+      {
+        "char": "z",
+        "freq": 5
+      },
+      {
+        "char": "x",
+        "freq": 3
+      },
+      {
+        "char": "j",
+        "freq": 2
+      }
+    ]
+  ],
+  "r": [
+    [
+      {
+        "char": "e",
+        "freq": 5785
+      },
+      {
+        "char": "a",
+        "freq": 5464
+      },
+      {
+        "char": "o",
+        "freq": 5232
+      },
+      {
+        "char": "i",
+        "freq": 4289
+      },
+      {
+        "char": "t",
+        "freq": 2145
+      },
+      {
+        "char": "p",
+        "freq": 1744
+      },
+      {
+        "char": "s",
+        "freq": 1716
+      }
+    ],
+    [
+      {
+        "char": "u",
+        "freq": 1552
+      },
+      {
+        "char": "c",
+        "freq": 1534
+      },
+      {
+        "char": "m",
+        "freq": 1237
+      },
+      {
+        "char": "d",
+        "freq": 1181
+      },
+      {
+        "char": "k",
+        "freq": 992
+      },
+      {
+        "char": "g",
+        "freq": 935
+      },
+      {
+        "char": "r",
+        "freq": 906
+      }
+    ],
+    [
+      {
+        "char": "l",
+        "freq": 878
+      },
+      {
+        "char": "n",
+        "freq": 727
+      },
+      {
+        "char": "y",
+        "freq": 691
+      },
+      {
+        "char": "b",
+        "freq": 655
+      },
+      {
+        "char": "v",
+        "freq": 466
+      },
+      {
+        "char": "f",
+        "freq": 375
+      }
+    ],
+    [
+      {
+        "char": "h",
+        "freq": 297
+      },
+      {
+        "char": "w",
+        "freq": 221
+      },
+      {
+        "char": "j",
+        "freq": 147
+      },
+      {
+        "char": "x",
+        "freq": 146
+      },
+      {
+        "char": "z",
+        "freq": 133
+      },
+      {
+        "char": "q",
+        "freq": 91
+      }
+    ]
+  ],
+  "s": [
+    [
+      {
+        "char": "a",
+        "freq": 4624
+      },
+      {
+        "char": "t",
+        "freq": 4423
+      },
+      {
+        "char": "i",
+        "freq": 3405
+      },
+      {
+        "char": "e",
+        "freq": 3374
+      },
+      {
+        "char": "o",
+        "freq": 2750
+      },
+      {
+        "char": "c",
+        "freq": 2254
+      },
+      {
+        "char": "h",
+        "freq": 2125
+      }
+    ],
+    [
+      {
+        "char": "s",
+        "freq": 2050
+      },
+      {
+        "char": "p",
+        "freq": 1579
+      },
+      {
+        "char": "u",
+        "freq": 1329
+      },
+      {
+        "char": "l",
+        "freq": 1179
+      },
+      {
+        "char": "m",
+        "freq": 1114
+      },
+      {
+        "char": "k",
+        "freq": 948
+      },
+      {
+        "char": "y",
+        "freq": 942
+      }
+    ],
+    [
+      {
+        "char": "b",
+        "freq": 599
+      },
+      {
+        "char": "w",
+        "freq": 561
+      },
+      {
+        "char": "r",
+        "freq": 557
+      },
+      {
+        "char": "d",
+        "freq": 529
+      },
+      {
+        "char": "n",
+        "freq": 510
+      },
+      {
+        "char": "g",
+        "freq": 471
+      }
+    ],
+    [
+      {
+        "char": "f",
+        "freq": 416
+      },
+      {
+        "char": "v",
+        "freq": 230
+      },
+      {
+        "char": "j",
+        "freq": 152
+      },
+      {
+        "char": "z",
+        "freq": 129
+      },
+      {
+        "char": "q",
+        "freq": 82
+      },
+      {
+        "char": "x",
+        "freq": 31
+      }
+    ]
+  ],
+  "t": [
+    [
+      {
+        "char": "e",
+        "freq": 7005
+      },
+      {
+        "char": "a",
+        "freq": 4144
+      },
+      {
+        "char": "o",
+        "freq": 3162
+      },
+      {
+        "char": "i",
+        "freq": 2746
+      },
+      {
+        "char": "r",
+        "freq": 2709
+      },
+      {
+        "char": "h",
+        "freq": 1763
+      },
+      {
+        "char": "s",
+        "freq": 1447
+      }
+    ],
+    [
+      {
+        "char": "t",
+        "freq": 1306
+      },
+      {
+        "char": "l",
+        "freq": 1082
+      },
+      {
+        "char": "c",
+        "freq": 971
+      },
+      {
+        "char": "u",
+        "freq": 933
+      },
+      {
+        "char": "m",
+        "freq": 693
+      },
+      {
+        "char": "d",
+        "freq": 648
+      },
+      {
+        "char": "y",
+        "freq": 578
+      }
+    ],
+    [
+      {
+        "char": "p",
+        "freq": 413
+      },
+      {
+        "char": "g",
+        "freq": 373
+      },
+      {
+        "char": "z",
+        "freq": 367
+      },
+      {
+        "char": "w",
+        "freq": 366
+      },
+      {
+        "char": "b",
+        "freq": 354
+      },
+      {
+        "char": "n",
+        "freq": 349
+      }
+    ],
+    [
+      {
+        "char": "v",
+        "freq": 325
+      },
+      {
+        "char": "f",
+        "freq": 239
+      },
+      {
+        "char": "k",
+        "freq": 208
+      },
+      {
+        "char": "x",
+        "freq": 148
+      },
+      {
+        "char": "j",
+        "freq": 119
+      },
+      {
+        "char": "q",
+        "freq": 22
+      }
+    ]
+  ],
+  "u": [
+    [
+      {
+        "char": "s",
+        "freq": 2783
+      },
+      {
+        "char": "r",
+        "freq": 2296
+      },
+      {
+        "char": "n",
+        "freq": 1754
+      },
+      {
+        "char": "t",
+        "freq": 1191
+      },
+      {
+        "char": "m",
+        "freq": 1182
+      },
+      {
+        "char": "l",
+        "freq": 1122
+      },
+      {
+        "char": "b",
+        "freq": 853
+      }
+    ],
+    [
+      {
+        "char": "p",
+        "freq": 798
+      },
+      {
+        "char": "e",
+        "freq": 791
+      },
+      {
+        "char": "a",
+        "freq": 725
+      },
+      {
+        "char": "i",
+        "freq": 719
+      },
+      {
+        "char": "c",
+        "freq": 648
+      },
+      {
+        "char": "d",
+        "freq": 626
+      },
+      {
+        "char": "k",
+        "freq": 485
+      }
+    ],
+    [
+      {
+        "char": "g",
+        "freq": 408
+      },
+      {
+        "char": "x",
+        "freq": 221
+      },
+      {
+        "char": "z",
+        "freq": 190
+      },
+      {
+        "char": "y",
+        "freq": 187
+      },
+      {
+        "char": "f",
+        "freq": 185
+      },
+      {
+        "char": "v",
+        "freq": 146
+      }
+    ],
+    [
+      {
+        "char": "h",
+        "freq": 124
+      },
+      {
+        "char": "o",
+        "freq": 117
+      },
+      {
+        "char": "w",
+        "freq": 79
+      },
+      {
+        "char": "j",
+        "freq": 77
+      },
+      {
+        "char": "u",
+        "freq": 62
+      },
+      {
+        "char": "q",
+        "freq": 15
+      }
+    ]
+  ],
+  "v": [
+    [
+      {
+        "char": "e",
+        "freq": 2251
+      },
+      {
+        "char": "i",
+        "freq": 2177
+      },
+      {
+        "char": "a",
+        "freq": 2048
+      },
+      {
+        "char": "o",
+        "freq": 773
+      },
+      {
+        "char": "c",
+        "freq": 246
+      },
+      {
+        "char": "s",
+        "freq": 221
+      },
+      {
+        "char": "r",
+        "freq": 169
+      }
+    ],
+    [
+      {
+        "char": "l",
+        "freq": 158
+      },
+      {
+        "char": "m",
+        "freq": 142
+      },
+      {
+        "char": "t",
+        "freq": 140
+      },
+      {
+        "char": "p",
+        "freq": 134
+      },
+      {
+        "char": "u",
+        "freq": 115
+      },
+      {
+        "char": "y",
+        "freq": 104
+      },
+      {
+        "char": "d",
+        "freq": 97
+      }
+    ],
+    [
+      {
+        "char": "b",
+        "freq": 95
+      },
+      {
+        "char": "n",
+        "freq": 89
+      },
+      {
+        "char": "f",
+        "freq": 74
+      },
+      {
+        "char": "g",
+        "freq": 63
+      },
+      {
+        "char": "v",
+        "freq": 55
+      },
+      {
+        "char": "w",
+        "freq": 51
+      }
+    ],
+    [
+      {
+        "char": "h",
+        "freq": 46
+      },
+      {
+        "char": "k",
+        "freq": 44
+      },
+      {
+        "char": "j",
+        "freq": 15
+      },
+      {
+        "char": "z",
+        "freq": 15
+      },
+      {
+        "char": "x",
+        "freq": 8
+      },
+      {
+        "char": "q",
+        "freq": 4
+      }
+    ]
+  ],
+  "w": [
+    [
+      {
+        "char": "e",
+        "freq": 1820
+      },
+      {
+        "char": "a",
+        "freq": 1584
+      },
+      {
+        "char": "i",
+        "freq": 1302
+      },
+      {
+        "char": "o",
+        "freq": 716
+      },
+      {
+        "char": "s",
+        "freq": 471
+      },
+      {
+        "char": "c",
+        "freq": 289
+      },
+      {
+        "char": "l",
+        "freq": 272
+      }
+    ],
+    [
+      {
+        "char": "h",
+        "freq": 271
+      },
+      {
+        "char": "n",
+        "freq": 268
+      },
+      {
+        "char": "m",
+        "freq": 211
+      },
+      {
+        "char": "p",
+        "freq": 207
+      },
+      {
+        "char": "r",
+        "freq": 197
+      },
+      {
+        "char": "b",
+        "freq": 166
+      },
+      {
+        "char": "t",
+        "freq": 164
+      }
+    ],
+    [
+      {
+        "char": "w",
+        "freq": 148
+      },
+      {
+        "char": "d",
+        "freq": 120
+      },
+      {
+        "char": "y",
+        "freq": 118
+      },
+      {
+        "char": "g",
+        "freq": 114
+      },
+      {
+        "char": "f",
+        "freq": 108
+      },
+      {
+        "char": "k",
+        "freq": 84
+      }
+    ],
+    [
+      {
+        "char": "j",
+        "freq": 54
+      },
+      {
+        "char": "u",
+        "freq": 52
+      },
+      {
+        "char": "v",
+        "freq": 50
+      },
+      {
+        "char": "z",
+        "freq": 15
+      },
+      {
+        "char": "q",
+        "freq": 6
+      },
+      {
+        "char": "x",
+        "freq": 6
+      }
+    ]
+  ],
+  "x": [
+    [
+      {
+        "char": "i",
+        "freq": 557
+      },
+      {
+        "char": "e",
+        "freq": 359
+      },
+      {
+        "char": "t",
+        "freq": 338
+      },
+      {
+        "char": "c",
+        "freq": 280
+      },
+      {
+        "char": "a",
+        "freq": 266
+      },
+      {
+        "char": "p",
+        "freq": 265
+      },
+      {
+        "char": "s",
+        "freq": 189
+      }
+    ],
+    [
+      {
+        "char": "o",
+        "freq": 178
+      },
+      {
+        "char": "l",
+        "freq": 154
+      },
+      {
+        "char": "m",
+        "freq": 149
+      },
+      {
+        "char": "x",
+        "freq": 136
+      },
+      {
+        "char": "u",
+        "freq": 111
+      },
+      {
+        "char": "b",
+        "freq": 107
+      },
+      {
+        "char": "r",
+        "freq": 76
+      }
+    ],
+    [
+      {
+        "char": "y",
+        "freq": 72
+      },
+      {
+        "char": "f",
+        "freq": 62
+      },
+      {
+        "char": "n",
+        "freq": 60
+      },
+      {
+        "char": "g",
+        "freq": 51
+      },
+      {
+        "char": "w",
+        "freq": 51
+      },
+      {
+        "char": "d",
+        "freq": 48
+      }
+    ],
+    [
+      {
+        "char": "h",
+        "freq": 45
+      },
+      {
+        "char": "v",
+        "freq": 32
+      },
+      {
+        "char": "j",
+        "freq": 15
+      },
+      {
+        "char": "k",
+        "freq": 15
+      },
+      {
+        "char": "z",
+        "freq": 11
+      },
+      {
+        "char": "q",
+        "freq": 8
+      }
+    ]
+  ],
+  "y": [
+    [
+      {
+        "char": "s",
+        "freq": 1219
+      },
+      {
+        "char": "a",
+        "freq": 978
+      },
+      {
+        "char": "n",
+        "freq": 689
+      },
+      {
+        "char": "o",
+        "freq": 619
+      },
+      {
+        "char": "e",
+        "freq": 572
+      },
+      {
+        "char": "c",
+        "freq": 493
+      },
+      {
+        "char": "l",
+        "freq": 447
+      }
+    ],
+    [
+      {
+        "char": "m",
+        "freq": 385
+      },
+      {
+        "char": "t",
+        "freq": 377
+      },
+      {
+        "char": "r",
+        "freq": 305
+      },
+      {
+        "char": "p",
+        "freq": 302
+      },
+      {
+        "char": "d",
+        "freq": 271
+      },
+      {
+        "char": "b",
+        "freq": 223
+      },
+      {
+        "char": "i",
+        "freq": 221
+      }
+    ],
+    [
+      {
+        "char": "u",
+        "freq": 209
+      },
+      {
+        "char": "g",
+        "freq": 133
+      },
+      {
+        "char": "k",
+        "freq": 129
+      },
+      {
+        "char": "f",
+        "freq": 127
+      },
+      {
+        "char": "h",
+        "freq": 113
+      },
+      {
+        "char": "w",
+        "freq": 104
+      }
+    ],
+    [
+      {
+        "char": "z",
+        "freq": 68
+      },
+      {
+        "char": "x",
+        "freq": 57
+      },
+      {
+        "char": "v",
+        "freq": 54
+      },
+      {
+        "char": "j",
+        "freq": 41
+      },
+      {
+        "char": "y",
+        "freq": 30
+      },
+      {
+        "char": "q",
+        "freq": 24
+      }
+    ]
+  ],
+  "z": [
+    [
+      {
+        "char": "e",
+        "freq": 724
+      },
+      {
+        "char": "a",
+        "freq": 720
+      },
+      {
+        "char": "i",
+        "freq": 558
+      },
+      {
+        "char": "o",
+        "freq": 413
+      },
+      {
+        "char": "z",
+        "freq": 288
+      },
+      {
+        "char": "u",
+        "freq": 166
+      },
+      {
+        "char": "l",
+        "freq": 151
+      }
+    ],
+    [
+      {
+        "char": "c",
+        "freq": 118
+      },
+      {
+        "char": "m",
+        "freq": 110
+      },
+      {
+        "char": "t",
+        "freq": 91
+      },
+      {
+        "char": "y",
+        "freq": 89
+      },
+      {
+        "char": "h",
+        "freq": 76
+      },
+      {
+        "char": "s",
+        "freq": 76
+      },
+      {
+        "char": "n",
+        "freq": 58
+      }
+    ],
+    [
+      {
+        "char": "b",
+        "freq": 55
+      },
+      {
+        "char": "d",
+        "freq": 54
+      },
+      {
+        "char": "k",
+        "freq": 48
+      },
+      {
+        "char": "w",
+        "freq": 48
+      },
+      {
+        "char": "g",
+        "freq": 44
+      },
+      {
+        "char": "p",
+        "freq": 43
+      }
+    ],
+    [
+      {
+        "char": "r",
+        "freq": 40
+      },
+      {
+        "char": "f",
+        "freq": 30
+      },
+      {
+        "char": "j",
+        "freq": 29
+      },
+      {
+        "char": "v",
+        "freq": 15
+      },
+      {
+        "char": "x",
+        "freq": 15
+      },
+      {
+        "char": "q",
+        "freq": 3
+      }
+    ]
+  ]
+}

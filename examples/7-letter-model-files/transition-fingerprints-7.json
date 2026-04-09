@@ -1,0 +1,8478 @@
+[
+  {
+    "signature": "000000",
+    "count": 7195
+  },
+  {
+    "signature": "001000",
+    "count": 3464
+  },
+  {
+    "signature": "010000",
+    "count": 3418
+  },
+  {
+    "signature": "000100",
+    "count": 2825
+  },
+  {
+    "signature": "000010",
+    "count": 2627
+  },
+  {
+    "signature": "000001",
+    "count": 2376
+  },
+  {
+    "signature": "100000",
+    "count": 2147
+  },
+  {
+    "signature": "020000",
+    "count": 1702
+  },
+  {
+    "signature": "002000",
+    "count": 1632
+  },
+  {
+    "signature": "011000",
+    "count": 1393
+  },
+  {
+    "signature": "000200",
+    "count": 1372
+  },
+  {
+    "signature": "001001",
+    "count": 1288
+  },
+  {
+    "signature": "010100",
+    "count": 1194
+  },
+  {
+    "signature": "001010",
+    "count": 1185
+  },
+  {
+    "signature": "010010",
+    "count": 1148
+  },
+  {
+    "signature": "010001",
+    "count": 1126
+  },
+  {
+    "signature": "001100",
+    "count": 1036
+  },
+  {
+    "signature": "110000",
+    "count": 1000
+  },
+  {
+    "signature": "200000",
+    "count": 938
+  },
+  {
+    "signature": "101000",
+    "count": 881
+  },
+  {
+    "signature": "100100",
+    "count": 870
+  },
+  {
+    "signature": "000101",
+    "count": 863
+  },
+  {
+    "signature": "000020",
+    "count": 844
+  },
+  {
+    "signature": "000002",
+    "count": 819
+  },
+  {
+    "signature": "100010",
+    "count": 693
+  },
+  {
+    "signature": "100001",
+    "count": 659
+  },
+  {
+    "signature": "002001",
+    "count": 656
+  },
+  {
+    "signature": "021000",
+    "count": 652
+  },
+  {
+    "signature": "003000",
+    "count": 640
+  },
+  {
+    "signature": "000110",
+    "count": 628
+  },
+  {
+    "signature": "020010",
+    "count": 621
+  },
+  {
+    "signature": "000011",
+    "count": 609
+  },
+  {
+    "signature": "012000",
+    "count": 591
+  },
+  {
+    "signature": "010200",
+    "count": 584
+  },
+  {
+    "signature": "030000",
+    "count": 556
+  },
+  {
+    "signature": "011001",
+    "count": 545
+  },
+  {
+    "signature": "020001",
+    "count": 543
+  },
+  {
+    "signature": "011010",
+    "count": 518
+  },
+  {
+    "signature": "020100",
+    "count": 510
+  },
+  {
+    "signature": "111000",
+    "count": 488
+  },
+  {
+    "signature": "002010",
+    "count": 476
+  },
+  {
+    "signature": "000300",
+    "count": 463
+  },
+  {
+    "signature": "120000",
+    "count": 457
+  },
+  {
+    "signature": "000201",
+    "count": 431
+  },
+  {
+    "signature": "300000",
+    "count": 418
+  },
+  {
+    "signature": "200100",
+    "count": 417
+  },
+  {
+    "signature": "102000",
+    "count": 409
+  },
+  {
+    "signature": "001020",
+    "count": 405
+  },
+  {
+    "signature": "210000",
+    "count": 395
+  },
+  {
+    "signature": "110100",
+    "count": 391
+  },
+  {
+    "signature": "001200",
+    "count": 387
+  },
+  {
+    "signature": "110010",
+    "count": 384
+  },
+  {
+    "signature": "011100",
+    "count": 369
+  },
+  {
+    "signature": "001101",
+    "count": 364
+  },
+  {
+    "signature": "000102",
+    "count": 359
+  },
+  {
+    "signature": "201000",
+    "count": 356
+  },
+  {
+    "signature": "110001",
+    "count": 355
+  },
+  {
+    "signature": "100200",
+    "count": 350
+  },
+  {
+    "signature": "001002",
+    "count": 344
+  },
+  {
+    "signature": "010101",
+    "count": 332
+  },
+  {
+    "signature": "010002",
+    "count": 324
+  },
+  {
+    "signature": "200010",
+    "count": 322
+  },
+  {
+    "signature": "101001",
+    "count": 320
+  },
+  {
+    "signature": "002100",
+    "count": 317
+  },
+  {
+    "signature": "010020",
+    "count": 310
+  },
+  {
+    "signature": "101010",
+    "count": 310
+  },
+  {
+    "signature": "101100",
+    "count": 308
+  },
+  {
+    "signature": "000003",
+    "count": 304
+  },
+  {
+    "signature": "001011",
+    "count": 298
+  },
+  {
+    "signature": "000021",
+    "count": 292
+  },
+  {
+    "signature": "012001",
+    "count": 286
+  },
+  {
+    "signature": "010011",
+    "count": 284
+  },
+  {
+    "signature": "003010",
+    "count": 269
+  },
+  {
+    "signature": "010110",
+    "count": 263
+  },
+  {
+    "signature": "000012",
+    "count": 257
+  },
+  {
+    "signature": "000030",
+    "count": 256
+  },
+  {
+    "signature": "200001",
+    "count": 255
+  },
+  {
+    "signature": "310000",
+    "count": 250
+  },
+  {
+    "signature": "020200",
+    "count": 249
+  },
+  {
+    "signature": "001110",
+    "count": 245
+  },
+  {
+    "signature": "121000",
+    "count": 237
+  },
+  {
+    "signature": "003001",
+    "count": 231
+  },
+  {
+    "signature": "220000",
+    "count": 231
+  },
+  {
+    "signature": "120010",
+    "count": 229
+  },
+  {
+    "signature": "030100",
+    "count": 226
+  },
+  {
+    "signature": "000210",
+    "count": 224
+  },
+  {
+    "signature": "021001",
+    "count": 220
+  },
+  {
+    "signature": "030010",
+    "count": 220
+  },
+  {
+    "signature": "100020",
+    "count": 218
+  },
+  {
+    "signature": "100101",
+    "count": 218
+  },
+  {
+    "signature": "000301",
+    "count": 213
+  },
+  {
+    "signature": "022000",
+    "count": 209
+  },
+  {
+    "signature": "100002",
+    "count": 205
+  },
+  {
+    "signature": "211000",
+    "count": 203
+  },
+  {
+    "signature": "013000",
+    "count": 200
+  },
+  {
+    "signature": "021010",
+    "count": 197
+  },
+  {
+    "signature": "000202",
+    "count": 195
+  },
+  {
+    "signature": "031000",
+    "count": 195
+  },
+  {
+    "signature": "210100",
+    "count": 193
+  },
+  {
+    "signature": "210010",
+    "count": 191
+  },
+  {
+    "signature": "102001",
+    "count": 190
+  },
+  {
+    "signature": "200200",
+    "count": 190
+  },
+  {
+    "signature": "000111",
+    "count": 188
+  },
+  {
+    "signature": "301000",
+    "count": 188
+  },
+  {
+    "signature": "110200",
+    "count": 185
+  },
+  {
+    "signature": "111010",
+    "count": 182
+  },
+  {
+    "signature": "010300",
+    "count": 181
+  },
+  {
+    "signature": "300100",
+    "count": 181
+  },
+  {
+    "signature": "000120",
+    "count": 176
+  },
+  {
+    "signature": "100110",
+    "count": 175
+  },
+  {
+    "signature": "030001",
+    "count": 172
+  },
+  {
+    "signature": "020101",
+    "count": 171
+  },
+  {
+    "signature": "120100",
+    "count": 170
+  },
+  {
+    "signature": "120001",
+    "count": 168
+  },
+  {
+    "signature": "002002",
+    "count": 167
+  },
+  {
+    "signature": "002020",
+    "count": 167
+  },
+  {
+    "signature": "001201",
+    "count": 166
+  },
+  {
+    "signature": "020020",
+    "count": 164
+  },
+  {
+    "signature": "010201",
+    "count": 163
+  },
+  {
+    "signature": "100011",
+    "count": 161
+  },
+  {
+    "signature": "020011",
+    "count": 158
+  },
+  {
+    "signature": "103000",
+    "count": 156
+  },
+  {
+    "signature": "111001",
+    "count": 155
+  },
+  {
+    "signature": "011020",
+    "count": 154
+  },
+  {
+    "signature": "202000",
+    "count": 154
+  },
+  {
+    "signature": "210001",
+    "count": 152
+  },
+  {
+    "signature": "000022",
+    "count": 151
+  },
+  {
+    "signature": "020002",
+    "count": 147
+  },
+  {
+    "signature": "201001",
+    "count": 142
+  },
+  {
+    "signature": "001300",
+    "count": 141
+  },
+  {
+    "signature": "300010",
+    "count": 139
+  },
+  {
+    "signature": "002011",
+    "count": 138
+  },
+  {
+    "signature": "010003",
+    "count": 137
+  },
+  {
+    "signature": "112000",
+    "count": 137
+  },
+  {
+    "signature": "001102",
+    "count": 136
+  },
+  {
+    "signature": "011101",
+    "count": 135
+  },
+  {
+    "signature": "020110",
+    "count": 135
+  },
+  {
+    "signature": "001003",
+    "count": 134
+  },
+  {
+    "signature": "010102",
+    "count": 134
+  },
+  {
+    "signature": "112001",
+    "count": 133
+  },
+  {
+    "signature": "201010",
+    "count": 133
+  },
+  {
+    "signature": "012010",
+    "count": 132
+  },
+  {
+    "signature": "130000",
+    "count": 131
+  },
+  {
+    "signature": "011011",
+    "count": 129
+  },
+  {
+    "signature": "022001",
+    "count": 129
+  },
+  {
+    "signature": "001030",
+    "count": 126
+  },
+  {
+    "signature": "000103",
+    "count": 122
+  },
+  {
+    "signature": "221000",
+    "count": 122
+  },
+  {
+    "signature": "011002",
+    "count": 119
+  },
+  {
+    "signature": "010021",
+    "count": 118
+  },
+  {
+    "signature": "311000",
+    "count": 117
+  },
+  {
+    "signature": "001021",
+    "count": 116
+  },
+  {
+    "signature": "030200",
+    "count": 115
+  },
+  {
+    "signature": "220010",
+    "count": 115
+  },
+  {
+    "signature": "300001",
+    "count": 115
+  },
+  {
+    "signature": "000121",
+    "count": 114
+  },
+  {
+    "signature": "003100",
+    "count": 113
+  },
+  {
+    "signature": "201100",
+    "count": 112
+  },
+  {
+    "signature": "021100",
+    "count": 111
+  },
+  {
+    "signature": "001012",
+    "count": 110
+  },
+  {
+    "signature": "002101",
+    "count": 110
+  },
+  {
+    "signature": "100300",
+    "count": 109
+  },
+  {
+    "signature": "020300",
+    "count": 108
+  },
+  {
+    "signature": "102010",
+    "count": 108
+  },
+  {
+    "signature": "101101",
+    "count": 104
+  },
+  {
+    "signature": "320000",
+    "count": 104
+  },
+  {
+    "signature": "200101",
+    "count": 103
+  },
+  {
+    "signature": "100201",
+    "count": 102
+  },
+  {
+    "signature": "000031",
+    "count": 100
+  },
+  {
+    "signature": "211010",
+    "count": 100
+  },
+  {
+    "signature": "002200",
+    "count": 98
+  },
+  {
+    "signature": "012100",
+    "count": 98
+  },
+  {
+    "signature": "010301",
+    "count": 97
+  },
+  {
+    "signature": "102100",
+    "count": 96
+  },
+  {
+    "signature": "110101",
+    "count": 96
+  },
+  {
+    "signature": "100102",
+    "count": 95
+  },
+  {
+    "signature": "010012",
+    "count": 94
+  },
+  {
+    "signature": "010210",
+    "count": 94
+  },
+  {
+    "signature": "013010",
+    "count": 94
+  },
+  {
+    "signature": "100003",
+    "count": 93
+  },
+  {
+    "signature": "000013",
+    "count": 91
+  },
+  {
+    "signature": "011110",
+    "count": 91
+  },
+  {
+    "signature": "031001",
+    "count": 91
+  },
+  {
+    "signature": "101020",
+    "count": 91
+  },
+  {
+    "signature": "110110",
+    "count": 91
+  },
+  {
+    "signature": "011200",
+    "count": 89
+  },
+  {
+    "signature": "210200",
+    "count": 89
+  },
+  {
+    "signature": "110002",
+    "count": 87
+  },
+  {
+    "signature": "121010",
+    "count": 87
+  },
+  {
+    "signature": "310010",
+    "count": 87
+  },
+  {
+    "signature": "300200",
+    "count": 86
+  },
+  {
+    "signature": "310100",
+    "count": 85
+  },
+  {
+    "signature": "202001",
+    "count": 84
+  },
+  {
+    "signature": "000203",
+    "count": 83
+  },
+  {
+    "signature": "010030",
+    "count": 83
+  },
+  {
+    "signature": "220001",
+    "count": 83
+  },
+  {
+    "signature": "230000",
+    "count": 83
+  },
+  {
+    "signature": "002110",
+    "count": 82
+  },
+  {
+    "signature": "103010",
+    "count": 82
+  },
+  {
+    "signature": "000112",
+    "count": 81
+  },
+  {
+    "signature": "120200",
+    "count": 81
+  },
+  {
+    "signature": "111100",
+    "count": 80
+  },
+  {
+    "signature": "200110",
+    "count": 80
+  },
+  {
+    "signature": "010120",
+    "count": 79
+  },
+  {
+    "signature": "013001",
+    "count": 79
+  },
+  {
+    "signature": "101002",
+    "count": 79
+  },
+  {
+    "signature": "200020",
+    "count": 79
+  },
+  {
+    "signature": "010111",
+    "count": 78
+  },
+  {
+    "signature": "020201",
+    "count": 78
+  },
+  {
+    "signature": "000220",
+    "count": 77
+  },
+  {
+    "signature": "032000",
+    "count": 77
+  },
+  {
+    "signature": "010022",
+    "count": 76
+  },
+  {
+    "signature": "110020",
+    "count": 75
+  },
+  {
+    "signature": "001022",
+    "count": 74
+  },
+  {
+    "signature": "002030",
+    "count": 74
+  },
+  {
+    "signature": "100021",
+    "count": 74
+  },
+  {
+    "signature": "023000",
+    "count": 73
+  },
+  {
+    "signature": "121001",
+    "count": 73
+  },
+  {
+    "signature": "130010",
+    "count": 73
+  },
+  {
+    "signature": "000211",
+    "count": 72
+  },
+  {
+    "signature": "001202",
+    "count": 72
+  },
+  {
+    "signature": "003011",
+    "count": 72
+  },
+  {
+    "signature": "021020",
+    "count": 72
+  },
+  {
+    "signature": "110011",
+    "count": 72
+  },
+  {
+    "signature": "122000",
+    "count": 71
+  },
+  {
+    "signature": "212001",
+    "count": 71
+  },
+  {
+    "signature": "001111",
+    "count": 70
+  },
+  {
+    "signature": "022010",
+    "count": 68
+  },
+  {
+    "signature": "012002",
+    "count": 67
+  },
+  {
+    "signature": "100111",
+    "count": 67
+  },
+  {
+    "signature": "101200",
+    "count": 67
+  },
+  {
+    "signature": "301001",
+    "count": 67
+  },
+  {
+    "signature": "001120",
+    "count": 66
+  },
+  {
+    "signature": "320010",
+    "count": 66
+  },
+  {
+    "signature": "011003",
+    "count": 65
+  },
+  {
+    "signature": "100012",
+    "count": 65
+  },
+  {
+    "signature": "000310",
+    "count": 64
+  },
+  {
+    "signature": "100030",
+    "count": 64
+  },
+  {
+    "signature": "220100",
+    "count": 64
+  },
+  {
+    "signature": "310001",
+    "count": 64
+  },
+  {
+    "signature": "021101",
+    "count": 63
+  },
+  {
+    "signature": "031010",
+    "count": 63
+  },
+  {
+    "signature": "100301",
+    "count": 63
+  },
+  {
+    "signature": "001210",
+    "count": 62
+  },
+  {
+    "signature": "020102",
+    "count": 62
+  },
+  {
+    "signature": "030110",
+    "count": 62
+  },
+  {
+    "signature": "120011",
+    "count": 62
+  },
+  {
+    "signature": "120101",
+    "count": 62
+  },
+  {
+    "signature": "122001",
+    "count": 62
+  },
+  {
+    "signature": "211001",
+    "count": 62
+  },
+  {
+    "signature": "030101",
+    "count": 61
+  },
+  {
+    "signature": "101011",
+    "count": 61
+  },
+  {
+    "signature": "121100",
+    "count": 61
+  },
+  {
+    "signature": "131000",
+    "count": 61
+  },
+  {
+    "signature": "012011",
+    "count": 60
+  },
+  {
+    "signature": "012020",
+    "count": 60
+  },
+  {
+    "signature": "000032",
+    "count": 59
+  },
+  {
+    "signature": "002003",
+    "count": 59
+  },
+  {
+    "signature": "003020",
+    "count": 59
+  },
+  {
+    "signature": "102020",
+    "count": 59
+  },
+  {
+    "signature": "113000",
+    "count": 59
+  },
+  {
+    "signature": "001013",
+    "count": 58
+  },
+  {
+    "signature": "020021",
+    "count": 58
+  },
+  {
+    "signature": "101110",
+    "count": 58
+  },
+  {
+    "signature": "301100",
+    "count": 58
+  },
+  {
+    "signature": "103001",
+    "count": 57
+  },
+  {
+    "signature": "020003",
+    "count": 56
+  },
+  {
+    "signature": "020030",
+    "count": 55
+  },
+  {
+    "signature": "212000",
+    "count": 55
+  },
+  {
+    "signature": "330000",
+    "count": 55
+  },
+  {
+    "signature": "000302",
+    "count": 54
+  },
+  {
+    "signature": "111101",
+    "count": 54
+  },
+  {
+    "signature": "112010",
+    "count": 54
+  },
+  {
+    "signature": "200002",
+    "count": 54
+  },
+  {
+    "signature": "310200",
+    "count": 54
+  },
+  {
+    "signature": "002102",
+    "count": 53
+  },
+  {
+    "signature": "011021",
+    "count": 53
+  },
+  {
+    "signature": "030020",
+    "count": 53
+  },
+  {
+    "signature": "120110",
+    "count": 53
+  },
+  {
+    "signature": "210110",
+    "count": 53
+  },
+  {
+    "signature": "220200",
+    "count": 53
+  },
+  {
+    "signature": "300101",
+    "count": 53
+  },
+  {
+    "signature": "301010",
+    "count": 53
+  },
+  {
+    "signature": "000130",
+    "count": 52
+  },
+  {
+    "signature": "001301",
+    "count": 52
+  },
+  {
+    "signature": "002201",
+    "count": 52
+  },
+  {
+    "signature": "010103",
+    "count": 52
+  },
+  {
+    "signature": "010202",
+    "count": 52
+  },
+  {
+    "signature": "021002",
+    "count": 52
+  },
+  {
+    "signature": "200011",
+    "count": 51
+  },
+  {
+    "signature": "302000",
+    "count": 51
+  },
+  {
+    "signature": "201020",
+    "count": 50
+  },
+  {
+    "signature": "010013",
+    "count": 49
+  },
+  {
+    "signature": "100202",
+    "count": 49
+  },
+  {
+    "signature": "200300",
+    "count": 49
+  },
+  {
+    "signature": "300110",
+    "count": 49
+  },
+  {
+    "signature": "020012",
+    "count": 48
+  },
+  {
+    "signature": "130100",
+    "count": 48
+  },
+  {
+    "signature": "311010",
+    "count": 48
+  },
+  {
+    "signature": "000212",
+    "count": 47
+  },
+  {
+    "signature": "021011",
+    "count": 47
+  },
+  {
+    "signature": "203000",
+    "count": 47
+  },
+  {
+    "signature": "003101",
+    "count": 46
+  },
+  {
+    "signature": "221010",
+    "count": 46
+  },
+  {
+    "signature": "030002",
+    "count": 45
+  },
+  {
+    "signature": "211100",
+    "count": 45
+  },
+  {
+    "signature": "221001",
+    "count": 45
+  },
+  {
+    "signature": "300002",
+    "count": 45
+  },
+  {
+    "signature": "000221",
+    "count": 44
+  },
+  {
+    "signature": "001121",
+    "count": 44
+  },
+  {
+    "signature": "010121",
+    "count": 44
+  },
+  {
+    "signature": "011030",
+    "count": 44
+  },
+  {
+    "signature": "100103",
+    "count": 44
+  },
+  {
+    "signature": "100210",
+    "count": 44
+  },
+  {
+    "signature": "102002",
+    "count": 44
+  },
+  {
+    "signature": "121101",
+    "count": 44
+  },
+  {
+    "signature": "320001",
+    "count": 44
+  },
+  {
+    "signature": "003002",
+    "count": 43
+  },
+  {
+    "signature": "011102",
+    "count": 43
+  },
+  {
+    "signature": "020210",
+    "count": 43
+  },
+  {
+    "signature": "102011",
+    "count": 43
+  },
+  {
+    "signature": "110021",
+    "count": 43
+  },
+  {
+    "signature": "111020",
+    "count": 43
+  },
+  {
+    "signature": "011012",
+    "count": 42
+  },
+  {
+    "signature": "031100",
+    "count": 42
+  },
+  {
+    "signature": "130001",
+    "count": 42
+  },
+  {
+    "signature": "200111",
+    "count": 42
+  },
+  {
+    "signature": "222001",
+    "count": 42
+  },
+  {
+    "signature": "100120",
+    "count": 41
+  },
+  {
+    "signature": "211101",
+    "count": 41
+  },
+  {
+    "signature": "321000",
+    "count": 41
+  },
+  {
+    "signature": "000113",
+    "count": 40
+  },
+  {
+    "signature": "000320",
+    "count": 40
+  },
+  {
+    "signature": "011201",
+    "count": 40
+  },
+  {
+    "signature": "032001",
+    "count": 40
+  },
+  {
+    "signature": "200201",
+    "count": 40
+  },
+  {
+    "signature": "001103",
+    "count": 39
+  },
+  {
+    "signature": "003030",
+    "count": 39
+  },
+  {
+    "signature": "020022",
+    "count": 39
+  },
+  {
+    "signature": "210011",
+    "count": 39
+  },
+  {
+    "signature": "100022",
+    "count": 38
+  },
+  {
+    "signature": "120020",
+    "count": 38
+  },
+  {
+    "signature": "002012",
+    "count": 37
+  },
+  {
+    "signature": "002021",
+    "count": 37
+  },
+  {
+    "signature": "010211",
+    "count": 37
+  },
+  {
+    "signature": "023001",
+    "count": 37
+  },
+  {
+    "signature": "320100",
+    "count": 37
+  },
+  {
+    "signature": "000023",
+    "count": 36
+  },
+  {
+    "signature": "001031",
+    "count": 36
+  },
+  {
+    "signature": "002120",
+    "count": 36
+  },
+  {
+    "signature": "022100",
+    "count": 36
+  },
+  {
+    "signature": "102101",
+    "count": 36
+  },
+  {
+    "signature": "103100",
+    "count": 36
+  },
+  {
+    "signature": "122010",
+    "count": 36
+  },
+  {
+    "signature": "201101",
+    "count": 36
+  },
+  {
+    "signature": "202010",
+    "count": 36
+  },
+  {
+    "signature": "203010",
+    "count": 36
+  },
+  {
+    "signature": "210101",
+    "count": 36
+  },
+  {
+    "signature": "003110",
+    "count": 35
+  },
+  {
+    "signature": "003200",
+    "count": 35
+  },
+  {
+    "signature": "101111",
+    "count": 35
+  },
+  {
+    "signature": "110300",
+    "count": 35
+  },
+  {
+    "signature": "210002",
+    "count": 35
+  },
+  {
+    "signature": "001211",
+    "count": 34
+  },
+  {
+    "signature": "011111",
+    "count": 34
+  },
+  {
+    "signature": "012101",
+    "count": 34
+  },
+  {
+    "signature": "101300",
+    "count": 34
+  },
+  {
+    "signature": "230010",
+    "count": 34
+  },
+  {
+    "signature": "000122",
+    "count": 33
+  },
+  {
+    "signature": "002300",
+    "count": 33
+  },
+  {
+    "signature": "010112",
+    "count": 33
+  },
+  {
+    "signature": "020301",
+    "count": 33
+  },
+  {
+    "signature": "110201",
+    "count": 33
+  },
+  {
+    "signature": "110301",
+    "count": 33
+  },
+  {
+    "signature": "112011",
+    "count": 33
+  },
+  {
+    "signature": "201002",
+    "count": 33
+  },
+  {
+    "signature": "202100",
+    "count": 33
+  },
+  {
+    "signature": "001112",
+    "count": 32
+  },
+  {
+    "signature": "010031",
+    "count": 32
+  },
+  {
+    "signature": "030011",
+    "count": 32
+  },
+  {
+    "signature": "112100",
+    "count": 32
+  },
+  {
+    "signature": "210020",
+    "count": 32
+  },
+  {
+    "signature": "221101",
+    "count": 32
+  },
+  {
+    "signature": "222000",
+    "count": 32
+  },
+  {
+    "signature": "003300",
+    "count": 31
+  },
+  {
+    "signature": "130200",
+    "count": 31
+  },
+  {
+    "signature": "220011",
+    "count": 31
+  },
+  {
+    "signature": "002111",
+    "count": 30
+  },
+  {
+    "signature": "020111",
+    "count": 30
+  },
+  {
+    "signature": "020120",
+    "count": 30
+  },
+  {
+    "signature": "023010",
+    "count": 30
+  },
+  {
+    "signature": "031101",
+    "count": 30
+  },
+  {
+    "signature": "033000",
+    "count": 30
+  },
+  {
+    "signature": "110111",
+    "count": 30
+  },
+  {
+    "signature": "120002",
+    "count": 30
+  },
+  {
+    "signature": "001203",
+    "count": 29
+  },
+  {
+    "signature": "010203",
+    "count": 29
+  },
+  {
+    "signature": "010302",
+    "count": 29
+  },
+  {
+    "signature": "011300",
+    "count": 29
+  },
+  {
+    "signature": "101102",
+    "count": 29
+  },
+  {
+    "signature": "102110",
+    "count": 29
+  },
+  {
+    "signature": "300020",
+    "count": 29
+  },
+  {
+    "signature": "302001",
+    "count": 29
+  },
+  {
+    "signature": "013100",
+    "count": 28
+  },
+  {
+    "signature": "021200",
+    "count": 28
+  },
+  {
+    "signature": "100121",
+    "count": 28
+  },
+  {
+    "signature": "110003",
+    "count": 28
+  },
+  {
+    "signature": "110012",
+    "count": 28
+  },
+  {
+    "signature": "110030",
+    "count": 28
+  },
+  {
+    "signature": "311001",
+    "count": 28
+  },
+  {
+    "signature": "012102",
+    "count": 27
+  },
+  {
+    "signature": "012110",
+    "count": 27
+  },
+  {
+    "signature": "101003",
+    "count": 27
+  },
+  {
+    "signature": "111002",
+    "count": 27
+  },
+  {
+    "signature": "111011",
+    "count": 27
+  },
+  {
+    "signature": "120201",
+    "count": 27
+  },
+  {
+    "signature": "212010",
+    "count": 27
+  },
+  {
+    "signature": "300011",
+    "count": 27
+  },
+  {
+    "signature": "300300",
+    "count": 27
+  },
+  {
+    "signature": "301101",
+    "count": 27
+  },
+  {
+    "signature": "000311",
+    "count": 26
+  },
+  {
+    "signature": "011031",
+    "count": 26
+  },
+  {
+    "signature": "030300",
+    "count": 26
+  },
+  {
+    "signature": "110102",
+    "count": 26
+  },
+  {
+    "signature": "113001",
+    "count": 26
+  },
+  {
+    "signature": "113010",
+    "count": 26
+  },
+  {
+    "signature": "123000",
+    "count": 26
+  },
+  {
+    "signature": "131010",
+    "count": 26
+  },
+  {
+    "signature": "200102",
+    "count": 26
+  },
+  {
+    "signature": "303000",
+    "count": 26
+  },
+  {
+    "signature": "320011",
+    "count": 26
+  },
+  {
+    "signature": "001212",
+    "count": 25
+  },
+  {
+    "signature": "001302",
+    "count": 25
+  },
+  {
+    "signature": "010032",
+    "count": 25
+  },
+  {
+    "signature": "010130",
+    "count": 25
+  },
+  {
+    "signature": "022020",
+    "count": 25
+  },
+  {
+    "signature": "030201",
+    "count": 25
+  },
+  {
+    "signature": "101030",
+    "count": 25
+  },
+  {
+    "signature": "103011",
+    "count": 25
+  },
+  {
+    "signature": "110210",
+    "count": 25
+  },
+  {
+    "signature": "112020",
+    "count": 25
+  },
+  {
+    "signature": "132000",
+    "count": 25
+  },
+  {
+    "signature": "203001",
+    "count": 25
+  },
+  {
+    "signature": "210300",
+    "count": 25
+  },
+  {
+    "signature": "320110",
+    "count": 25
+  },
+  {
+    "signature": "000303",
+    "count": 24
+  },
+  {
+    "signature": "010023",
+    "count": 24
+  },
+  {
+    "signature": "010220",
+    "count": 24
+  },
+  {
+    "signature": "010310",
+    "count": 24
+  },
+  {
+    "signature": "011202",
+    "count": 24
+  },
+  {
+    "signature": "013020",
+    "count": 24
+  },
+  {
+    "signature": "020202",
+    "count": 24
+  },
+  {
+    "signature": "032010",
+    "count": 24
+  },
+  {
+    "signature": "102200",
+    "count": 24
+  },
+  {
+    "signature": "132001",
+    "count": 24
+  },
+  {
+    "signature": "211020",
+    "count": 24
+  },
+  {
+    "signature": "311100",
+    "count": 24
+  },
+  {
+    "signature": "000132",
+    "count": 23
+  },
+  {
+    "signature": "010212",
+    "count": 23
+  },
+  {
+    "signature": "100112",
+    "count": 23
+  },
+  {
+    "signature": "101120",
+    "count": 23
+  },
+  {
+    "signature": "101201",
+    "count": 23
+  },
+  {
+    "signature": "131001",
+    "count": 23
+  },
+  {
+    "signature": "200003",
+    "count": 23
+  },
+  {
+    "signature": "200021",
+    "count": 23
+  },
+  {
+    "signature": "221100",
+    "count": 23
+  },
+  {
+    "signature": "231000",
+    "count": 23
+  },
+  {
+    "signature": "310002",
+    "count": 23
+  },
+  {
+    "signature": "000213",
+    "count": 22
+  },
+  {
+    "signature": "011013",
+    "count": 22
+  },
+  {
+    "signature": "011022",
+    "count": 22
+  },
+  {
+    "signature": "021110",
+    "count": 22
+  },
+  {
+    "signature": "030003",
+    "count": 22
+  },
+  {
+    "signature": "120021",
+    "count": 22
+  },
+  {
+    "signature": "200012",
+    "count": 22
+  },
+  {
+    "signature": "200301",
+    "count": 22
+  },
+  {
+    "signature": "220020",
+    "count": 22
+  },
+  {
+    "signature": "310020",
+    "count": 22
+  },
+  {
+    "signature": "000131",
+    "count": 21
+  },
+  {
+    "signature": "002031",
+    "count": 21
+  },
+  {
+    "signature": "002202",
+    "count": 21
+  },
+  {
+    "signature": "003012",
+    "count": 21
+  },
+  {
+    "signature": "022011",
+    "count": 21
+  },
+  {
+    "signature": "100031",
+    "count": 21
+  },
+  {
+    "signature": "111111",
+    "count": 21
+  },
+  {
+    "signature": "120102",
+    "count": 21
+  },
+  {
+    "signature": "130011",
+    "count": 21
+  },
+  {
+    "signature": "202020",
+    "count": 21
+  },
+  {
+    "signature": "300102",
+    "count": 21
+  },
+  {
+    "signature": "310110",
+    "count": 21
+  },
+  {
+    "signature": "001310",
+    "count": 20
+  },
+  {
+    "signature": "011120",
+    "count": 20
+  },
+  {
+    "signature": "011210",
+    "count": 20
+  },
+  {
+    "signature": "020103",
+    "count": 20
+  },
+  {
+    "signature": "031002",
+    "count": 20
+  },
+  {
+    "signature": "100013",
+    "count": 20
+  },
+  {
+    "signature": "200120",
+    "count": 20
+  },
+  {
+    "signature": "201011",
+    "count": 20
+  },
+  {
+    "signature": "201200",
+    "count": 20
+  },
+  {
+    "signature": "220101",
+    "count": 20
+  },
+  {
+    "signature": "231010",
+    "count": 20
+  },
+  {
+    "signature": "331000",
+    "count": 20
+  },
+  {
+    "signature": "001032",
+    "count": 19
+  },
+  {
+    "signature": "001130",
+    "count": 19
+  },
+  {
+    "signature": "010113",
+    "count": 19
+  },
+  {
+    "signature": "013011",
+    "count": 19
+  },
+  {
+    "signature": "021102",
+    "count": 19
+  },
+  {
+    "signature": "030030",
+    "count": 19
+  },
+  {
+    "signature": "031020",
+    "count": 19
+  },
+  {
+    "signature": "101021",
+    "count": 19
+  },
+  {
+    "signature": "120300",
+    "count": 19
+  },
+  {
+    "signature": "121002",
+    "count": 19
+  },
+  {
+    "signature": "122011",
+    "count": 19
+  },
+  {
+    "signature": "230100",
+    "count": 19
+  },
+  {
+    "signature": "312000",
+    "count": 19
+  },
+  {
+    "signature": "320200",
+    "count": 19
+  },
+  {
+    "signature": "321001",
+    "count": 19
+  },
+  {
+    "signature": "321010",
+    "count": 19
+  },
+  {
+    "signature": "000033",
+    "count": 18
+  },
+  {
+    "signature": "001113",
+    "count": 18
+  },
+  {
+    "signature": "001220",
+    "count": 18
+  },
+  {
+    "signature": "001221",
+    "count": 18
+  },
+  {
+    "signature": "011103",
+    "count": 18
+  },
+  {
+    "signature": "030021",
+    "count": 18
+  },
+  {
+    "signature": "030102",
+    "count": 18
+  },
+  {
+    "signature": "031201",
+    "count": 18
+  },
+  {
+    "signature": "100113",
+    "count": 18
+  },
+  {
+    "signature": "100203",
+    "count": 18
+  },
+  {
+    "signature": "102201",
+    "count": 18
+  },
+  {
+    "signature": "110022",
+    "count": 18
+  },
+  {
+    "signature": "110103",
+    "count": 18
+  },
+  {
+    "signature": "123001",
+    "count": 18
+  },
+  {
+    "signature": "201201",
+    "count": 18
+  },
+  {
+    "signature": "202110",
+    "count": 18
+  },
+  {
+    "signature": "203011",
+    "count": 18
+  },
+  {
+    "signature": "210021",
+    "count": 18
+  },
+  {
+    "signature": "213000",
+    "count": 18
+  },
+  {
+    "signature": "220021",
+    "count": 18
+  },
+  {
+    "signature": "301020",
+    "count": 18
+  },
+  {
+    "signature": "310101",
+    "count": 18
+  },
+  {
+    "signature": "330100",
+    "count": 18
+  },
+  {
+    "signature": "001023",
+    "count": 17
+  },
+  {
+    "signature": "013002",
+    "count": 17
+  },
+  {
+    "signature": "021030",
+    "count": 17
+  },
+  {
+    "signature": "022101",
+    "count": 17
+  },
+  {
+    "signature": "103020",
+    "count": 17
+  },
+  {
+    "signature": "120301",
+    "count": 17
+  },
+  {
+    "signature": "131100",
+    "count": 17
+  },
+  {
+    "signature": "201110",
+    "count": 17
+  },
+  {
+    "signature": "202101",
+    "count": 17
+  },
+  {
+    "signature": "232001",
+    "count": 17
+  },
+  {
+    "signature": "312001",
+    "count": 17
+  },
+  {
+    "signature": "002103",
+    "count": 16
+  },
+  {
+    "signature": "002112",
+    "count": 16
+  },
+  {
+    "signature": "003031",
+    "count": 16
+  },
+  {
+    "signature": "003102",
+    "count": 16
+  },
+  {
+    "signature": "011301",
+    "count": 16
+  },
+  {
+    "signature": "012201",
+    "count": 16
+  },
+  {
+    "signature": "030210",
+    "count": 16
+  },
+  {
+    "signature": "100130",
+    "count": 16
+  },
+  {
+    "signature": "101121",
+    "count": 16
+  },
+  {
+    "signature": "103200",
+    "count": 16
+  },
+  {
+    "signature": "110013",
+    "count": 16
+  },
+  {
+    "signature": "111200",
+    "count": 16
+  },
+  {
+    "signature": "112101",
+    "count": 16
+  },
+  {
+    "signature": "121020",
+    "count": 16
+  },
+  {
+    "signature": "220110",
+    "count": 16
+  },
+  {
+    "signature": "230001",
+    "count": 16
+  },
+  {
+    "signature": "301002",
+    "count": 16
+  },
+  {
+    "signature": "000222",
+    "count": 15
+  },
+  {
+    "signature": "002013",
+    "count": 15
+  },
+  {
+    "signature": "002301",
+    "count": 15
+  },
+  {
+    "signature": "010221",
+    "count": 15
+  },
+  {
+    "signature": "011112",
+    "count": 15
+  },
+  {
+    "signature": "012003",
+    "count": 15
+  },
+  {
+    "signature": "021003",
+    "count": 15
+  },
+  {
+    "signature": "021111",
+    "count": 15
+  },
+  {
+    "signature": "101012",
+    "count": 15
+  },
+  {
+    "signature": "110120",
+    "count": 15
+  },
+  {
+    "signature": "120210",
+    "count": 15
+  },
+  {
+    "signature": "121110",
+    "count": 15
+  },
+  {
+    "signature": "130101",
+    "count": 15
+  },
+  {
+    "signature": "200202",
+    "count": 15
+  },
+  {
+    "signature": "200210",
+    "count": 15
+  },
+  {
+    "signature": "201102",
+    "count": 15
+  },
+  {
+    "signature": "210111",
+    "count": 15
+  },
+  {
+    "signature": "213010",
+    "count": 15
+  },
+  {
+    "signature": "300201",
+    "count": 15
+  },
+  {
+    "signature": "302010",
+    "count": 15
+  },
+  {
+    "signature": "302100",
+    "count": 15
+  },
+  {
+    "signature": "310011",
+    "count": 15
+  },
+  {
+    "signature": "310021",
+    "count": 15
+  },
+  {
+    "signature": "330010",
+    "count": 15
+  },
+  {
+    "signature": "000230",
+    "count": 14
+  },
+  {
+    "signature": "001122",
+    "count": 14
+  },
+  {
+    "signature": "003003",
+    "count": 14
+  },
+  {
+    "signature": "012021",
+    "count": 14
+  },
+  {
+    "signature": "012030",
+    "count": 14
+  },
+  {
+    "signature": "012200",
+    "count": 14
+  },
+  {
+    "signature": "020013",
+    "count": 14
+  },
+  {
+    "signature": "020031",
+    "count": 14
+  },
+  {
+    "signature": "021021",
+    "count": 14
+  },
+  {
+    "signature": "021201",
+    "count": 14
+  },
+  {
+    "signature": "030111",
+    "count": 14
+  },
+  {
+    "signature": "030120",
+    "count": 14
+  },
+  {
+    "signature": "031011",
+    "count": 14
+  },
+  {
+    "signature": "100023",
+    "count": 14
+  },
+  {
+    "signature": "111110",
+    "count": 14
+  },
+  {
+    "signature": "122100",
+    "count": 14
+  },
+  {
+    "signature": "130110",
+    "count": 14
+  },
+  {
+    "signature": "203100",
+    "count": 14
+  },
+  {
+    "signature": "303010",
+    "count": 14
+  },
+  {
+    "signature": "322000",
+    "count": 14
+  },
+  {
+    "signature": "000123",
+    "count": 13
+  },
+  {
+    "signature": "000321",
+    "count": 13
+  },
+  {
+    "signature": "002121",
+    "count": 13
+  },
+  {
+    "signature": "010122",
+    "count": 13
+  },
+  {
+    "signature": "012012",
+    "count": 13
+  },
+  {
+    "signature": "013021",
+    "count": 13
+  },
+  {
+    "signature": "020310",
+    "count": 13
+  },
+  {
+    "signature": "022002",
+    "count": 13
+  },
+  {
+    "signature": "022200",
+    "count": 13
+  },
+  {
+    "signature": "030012",
+    "count": 13
+  },
+  {
+    "signature": "030022",
+    "count": 13
+  },
+  {
+    "signature": "033001",
+    "count": 13
+  },
+  {
+    "signature": "101210",
+    "count": 13
+  },
+  {
+    "signature": "102102",
+    "count": 13
+  },
+  {
+    "signature": "112200",
+    "count": 13
+  },
+  {
+    "signature": "130300",
+    "count": 13
+  },
+  {
+    "signature": "201021",
+    "count": 13
+  },
+  {
+    "signature": "210003",
+    "count": 13
+  },
+  {
+    "signature": "210030",
+    "count": 13
+  },
+  {
+    "signature": "212011",
+    "count": 13
+  },
+  {
+    "signature": "220002",
+    "count": 13
+  },
+  {
+    "signature": "300210",
+    "count": 13
+  },
+  {
+    "signature": "301011",
+    "count": 13
+  },
+  {
+    "signature": "313000",
+    "count": 13
+  },
+  {
+    "signature": "000330",
+    "count": 12
+  },
+  {
+    "signature": "002210",
+    "count": 12
+  },
+  {
+    "signature": "003013",
+    "count": 12
+  },
+  {
+    "signature": "010230",
+    "count": 12
+  },
+  {
+    "signature": "011121",
+    "count": 12
+  },
+  {
+    "signature": "011212",
+    "count": 12
+  },
+  {
+    "signature": "013101",
+    "count": 12
+  },
+  {
+    "signature": "020023",
+    "count": 12
+  },
+  {
+    "signature": "020121",
+    "count": 12
+  },
+  {
+    "signature": "021300",
+    "count": 12
+  },
+  {
+    "signature": "022110",
+    "count": 12
+  },
+  {
+    "signature": "030301",
+    "count": 12
+  },
+  {
+    "signature": "030310",
+    "count": 12
+  },
+  {
+    "signature": "031110",
+    "count": 12
+  },
+  {
+    "signature": "031200",
+    "count": 12
+  },
+  {
+    "signature": "032020",
+    "count": 12
+  },
+  {
+    "signature": "032100",
+    "count": 12
+  },
+  {
+    "signature": "100310",
+    "count": 12
+  },
+  {
+    "signature": "101202",
+    "count": 12
+  },
+  {
+    "signature": "110121",
+    "count": 12
+  },
+  {
+    "signature": "120003",
+    "count": 12
+  },
+  {
+    "signature": "130002",
+    "count": 12
+  },
+  {
+    "signature": "133000",
+    "count": 12
+  },
+  {
+    "signature": "200022",
+    "count": 12
+  },
+  {
+    "signature": "201111",
+    "count": 12
+  },
+  {
+    "signature": "210012",
+    "count": 12
+  },
+  {
+    "signature": "210301",
+    "count": 12
+  },
+  {
+    "signature": "211002",
+    "count": 12
+  },
+  {
+    "signature": "213001",
+    "count": 12
+  },
+  {
+    "signature": "221020",
+    "count": 12
+  },
+  {
+    "signature": "300021",
+    "count": 12
+  },
+  {
+    "signature": "310111",
+    "count": 12
+  },
+  {
+    "signature": "310300",
+    "count": 12
+  },
+  {
+    "signature": "320002",
+    "count": 12
+  },
+  {
+    "signature": "321100",
+    "count": 12
+  },
+  {
+    "signature": "003111",
+    "count": 11
+  },
+  {
+    "signature": "003201",
+    "count": 11
+  },
+  {
+    "signature": "010131",
+    "count": 11
+  },
+  {
+    "signature": "010311",
+    "count": 11
+  },
+  {
+    "signature": "011023",
+    "count": 11
+  },
+  {
+    "signature": "011032",
+    "count": 11
+  },
+  {
+    "signature": "011130",
+    "count": 11
+  },
+  {
+    "signature": "012111",
+    "count": 11
+  },
+  {
+    "signature": "012300",
+    "count": 11
+  },
+  {
+    "signature": "020112",
+    "count": 11
+  },
+  {
+    "signature": "031300",
+    "count": 11
+  },
+  {
+    "signature": "100032",
+    "count": 11
+  },
+  {
+    "signature": "100212",
+    "count": 11
+  },
+  {
+    "signature": "100220",
+    "count": 11
+  },
+  {
+    "signature": "101212",
+    "count": 11
+  },
+  {
+    "signature": "131101",
+    "count": 11
+  },
+  {
+    "signature": "200103",
+    "count": 11
+  },
+  {
+    "signature": "200121",
+    "count": 11
+  },
+  {
+    "signature": "210102",
+    "count": 11
+  },
+  {
+    "signature": "210201",
+    "count": 11
+  },
+  {
+    "signature": "220201",
+    "count": 11
+  },
+  {
+    "signature": "222011",
+    "count": 11
+  },
+  {
+    "signature": "231101",
+    "count": 11
+  },
+  {
+    "signature": "300030",
+    "count": 11
+  },
+  {
+    "signature": "310201",
+    "count": 11
+  },
+  {
+    "signature": "311101",
+    "count": 11
+  },
+  {
+    "signature": "321101",
+    "count": 11
+  },
+  {
+    "signature": "000232",
+    "count": 10
+  },
+  {
+    "signature": "002022",
+    "count": 10
+  },
+  {
+    "signature": "003021",
+    "count": 10
+  },
+  {
+    "signature": "010213",
+    "count": 10
+  },
+  {
+    "signature": "010320",
+    "count": 10
+  },
+  {
+    "signature": "012210",
+    "count": 10
+  },
+  {
+    "signature": "013012",
+    "count": 10
+  },
+  {
+    "signature": "020032",
+    "count": 10
+  },
+  {
+    "signature": "023020",
+    "count": 10
+  },
+  {
+    "signature": "033010",
+    "count": 10
+  },
+  {
+    "signature": "101211",
+    "count": 10
+  },
+  {
+    "signature": "102030",
+    "count": 10
+  },
+  {
+    "signature": "102111",
+    "count": 10
+  },
+  {
+    "signature": "103101",
+    "count": 10
+  },
+  {
+    "signature": "103110",
+    "count": 10
+  },
+  {
+    "signature": "110130",
+    "count": 10
+  },
+  {
+    "signature": "111003",
+    "count": 10
+  },
+  {
+    "signature": "111021",
+    "count": 10
+  },
+  {
+    "signature": "111030",
+    "count": 10
+  },
+  {
+    "signature": "112002",
+    "count": 10
+  },
+  {
+    "signature": "120012",
+    "count": 10
+  },
+  {
+    "signature": "120030",
+    "count": 10
+  },
+  {
+    "signature": "121011",
+    "count": 10
+  },
+  {
+    "signature": "210210",
+    "count": 10
+  },
+  {
+    "signature": "212100",
+    "count": 10
+  },
+  {
+    "signature": "220012",
+    "count": 10
+  },
+  {
+    "signature": "301201",
+    "count": 10
+  },
+  {
+    "signature": "000231",
+    "count": 9
+  },
+  {
+    "signature": "001033",
+    "count": 9
+  },
+  {
+    "signature": "010303",
+    "count": 9
+  },
+  {
+    "signature": "012013",
+    "count": 9
+  },
+  {
+    "signature": "012031",
+    "count": 9
+  },
+  {
+    "signature": "013003",
+    "count": 9
+  },
+  {
+    "signature": "013030",
+    "count": 9
+  },
+  {
+    "signature": "020220",
+    "count": 9
+  },
+  {
+    "signature": "020320",
+    "count": 9
+  },
+  {
+    "signature": "021120",
+    "count": 9
+  },
+  {
+    "signature": "022012",
+    "count": 9
+  },
+  {
+    "signature": "030013",
+    "count": 9
+  },
+  {
+    "signature": "032200",
+    "count": 9
+  },
+  {
+    "signature": "100122",
+    "count": 9
+  },
+  {
+    "signature": "100211",
+    "count": 9
+  },
+  {
+    "signature": "100221",
+    "count": 9
+  },
+  {
+    "signature": "100302",
+    "count": 9
+  },
+  {
+    "signature": "101103",
+    "count": 9
+  },
+  {
+    "signature": "101220",
+    "count": 9
+  },
+  {
+    "signature": "102003",
+    "count": 9
+  },
+  {
+    "signature": "102120",
+    "count": 9
+  },
+  {
+    "signature": "102211",
+    "count": 9
+  },
+  {
+    "signature": "103002",
+    "count": 9
+  },
+  {
+    "signature": "103300",
+    "count": 9
+  },
+  {
+    "signature": "110220",
+    "count": 9
+  },
+  {
+    "signature": "113101",
+    "count": 9
+  },
+  {
+    "signature": "120111",
+    "count": 9
+  },
+  {
+    "signature": "121200",
+    "count": 9
+  },
+  {
+    "signature": "123101",
+    "count": 9
+  },
+  {
+    "signature": "200030",
+    "count": 9
+  },
+  {
+    "signature": "200113",
+    "count": 9
+  },
+  {
+    "signature": "202011",
+    "count": 9
+  },
+  {
+    "signature": "211200",
+    "count": 9
+  },
+  {
+    "signature": "212201",
+    "count": 9
+  },
+  {
+    "signature": "220111",
+    "count": 9
+  },
+  {
+    "signature": "220301",
+    "count": 9
+  },
+  {
+    "signature": "222010",
+    "count": 9
+  },
+  {
+    "signature": "230020",
+    "count": 9
+  },
+  {
+    "signature": "230101",
+    "count": 9
+  },
+  {
+    "signature": "231001",
+    "count": 9
+  },
+  {
+    "signature": "232000",
+    "count": 9
+  },
+  {
+    "signature": "300003",
+    "count": 9
+  },
+  {
+    "signature": "300012",
+    "count": 9
+  },
+  {
+    "signature": "300111",
+    "count": 9
+  },
+  {
+    "signature": "300120",
+    "count": 9
+  },
+  {
+    "signature": "301110",
+    "count": 9
+  },
+  {
+    "signature": "301200",
+    "count": 9
+  },
+  {
+    "signature": "303001",
+    "count": 9
+  },
+  {
+    "signature": "320020",
+    "count": 9
+  },
+  {
+    "signature": "320101",
+    "count": 9
+  },
+  {
+    "signature": "322001",
+    "count": 9
+  },
+  {
+    "signature": "322010",
+    "count": 9
+  },
+  {
+    "signature": "330001",
+    "count": 9
+  },
+  {
+    "signature": "001320",
+    "count": 8
+  },
+  {
+    "signature": "002033",
+    "count": 8
+  },
+  {
+    "signature": "003301",
+    "count": 8
+  },
+  {
+    "signature": "010033",
+    "count": 8
+  },
+  {
+    "signature": "010222",
+    "count": 8
+  },
+  {
+    "signature": "010321",
+    "count": 8
+  },
+  {
+    "signature": "020122",
+    "count": 8
+  },
+  {
+    "signature": "021210",
+    "count": 8
+  },
+  {
+    "signature": "021301",
+    "count": 8
+  },
+  {
+    "signature": "022030",
+    "count": 8
+  },
+  {
+    "signature": "022120",
+    "count": 8
+  },
+  {
+    "signature": "023100",
+    "count": 8
+  },
+  {
+    "signature": "030031",
+    "count": 8
+  },
+  {
+    "signature": "030203",
+    "count": 8
+  },
+  {
+    "signature": "032011",
+    "count": 8
+  },
+  {
+    "signature": "101013",
+    "count": 8
+  },
+  {
+    "signature": "101022",
+    "count": 8
+  },
+  {
+    "signature": "101301",
+    "count": 8
+  },
+  {
+    "signature": "102012",
+    "count": 8
+  },
+  {
+    "signature": "102121",
+    "count": 8
+  },
+  {
+    "signature": "103030",
+    "count": 8
+  },
+  {
+    "signature": "110031",
+    "count": 8
+  },
+  {
+    "signature": "110202",
+    "count": 8
+  },
+  {
+    "signature": "111300",
+    "count": 8
+  },
+  {
+    "signature": "112110",
+    "count": 8
+  },
+  {
+    "signature": "112201",
+    "count": 8
+  },
+  {
+    "signature": "113100",
+    "count": 8
+  },
+  {
+    "signature": "120103",
+    "count": 8
+  },
+  {
+    "signature": "130020",
+    "count": 8
+  },
+  {
+    "signature": "200112",
+    "count": 8
+  },
+  {
+    "signature": "200310",
+    "count": 8
+  },
+  {
+    "signature": "202002",
+    "count": 8
+  },
+  {
+    "signature": "202200",
+    "count": 8
+  },
+  {
+    "signature": "210022",
+    "count": 8
+  },
+  {
+    "signature": "210112",
+    "count": 8
+  },
+  {
+    "signature": "211110",
+    "count": 8
+  },
+  {
+    "signature": "211111",
+    "count": 8
+  },
+  {
+    "signature": "221110",
+    "count": 8
+  },
+  {
+    "signature": "230200",
+    "count": 8
+  },
+  {
+    "signature": "300202",
+    "count": 8
+  },
+  {
+    "signature": "302020",
+    "count": 8
+  },
+  {
+    "signature": "000322",
+    "count": 7
+  },
+  {
+    "signature": "001131",
+    "count": 7
+  },
+  {
+    "signature": "001132",
+    "count": 7
+  },
+  {
+    "signature": "001222",
+    "count": 7
+  },
+  {
+    "signature": "002023",
+    "count": 7
+  },
+  {
+    "signature": "002032",
+    "count": 7
+  },
+  {
+    "signature": "002203",
+    "count": 7
+  },
+  {
+    "signature": "002220",
+    "count": 7
+  },
+  {
+    "signature": "003121",
+    "count": 7
+  },
+  {
+    "signature": "012022",
+    "count": 7
+  },
+  {
+    "signature": "020130",
+    "count": 7
+  },
+  {
+    "signature": "020203",
+    "count": 7
+  },
+  {
+    "signature": "020302",
+    "count": 7
+  },
+  {
+    "signature": "020311",
+    "count": 7
+  },
+  {
+    "signature": "021012",
+    "count": 7
+  },
+  {
+    "signature": "021013",
+    "count": 7
+  },
+  {
+    "signature": "023012",
+    "count": 7
+  },
+  {
+    "signature": "023101",
+    "count": 7
+  },
+  {
+    "signature": "030103",
+    "count": 7
+  },
+  {
+    "signature": "031021",
+    "count": 7
+  },
+  {
+    "signature": "101113",
+    "count": 7
+  },
+  {
+    "signature": "102300",
+    "count": 7
+  },
+  {
+    "signature": "110211",
+    "count": 7
+  },
+  {
+    "signature": "110302",
+    "count": 7
+  },
+  {
+    "signature": "111301",
+    "count": 7
+  },
+  {
+    "signature": "120112",
+    "count": 7
+  },
+  {
+    "signature": "120121",
+    "count": 7
+  },
+  {
+    "signature": "120211",
+    "count": 7
+  },
+  {
+    "signature": "121111",
+    "count": 7
+  },
+  {
+    "signature": "122020",
+    "count": 7
+  },
+  {
+    "signature": "123010",
+    "count": 7
+  },
+  {
+    "signature": "200013",
+    "count": 7
+  },
+  {
+    "signature": "200212",
+    "count": 7
+  },
+  {
+    "signature": "201003",
+    "count": 7
+  },
+  {
+    "signature": "201030",
+    "count": 7
+  },
+  {
+    "signature": "201031",
+    "count": 7
+  },
+  {
+    "signature": "201300",
+    "count": 7
+  },
+  {
+    "signature": "202012",
+    "count": 7
+  },
+  {
+    "signature": "202201",
+    "count": 7
+  },
+  {
+    "signature": "203101",
+    "count": 7
+  },
+  {
+    "signature": "212101",
+    "count": 7
+  },
+  {
+    "signature": "220030",
+    "count": 7
+  },
+  {
+    "signature": "220300",
+    "count": 7
+  },
+  {
+    "signature": "221111",
+    "count": 7
+  },
+  {
+    "signature": "221200",
+    "count": 7
+  },
+  {
+    "signature": "222101",
+    "count": 7
+  },
+  {
+    "signature": "223000",
+    "count": 7
+  },
+  {
+    "signature": "231100",
+    "count": 7
+  },
+  {
+    "signature": "300103",
+    "count": 7
+  },
+  {
+    "signature": "301003",
+    "count": 7
+  },
+  {
+    "signature": "302101",
+    "count": 7
+  },
+  {
+    "signature": "302200",
+    "count": 7
+  },
+  {
+    "signature": "311011",
+    "count": 7
+  },
+  {
+    "signature": "311020",
+    "count": 7
+  },
+  {
+    "signature": "312011",
+    "count": 7
+  },
+  {
+    "signature": "313001",
+    "count": 7
+  },
+  {
+    "signature": "320021",
+    "count": 7
+  },
+  {
+    "signature": "320201",
+    "count": 7
+  },
+  {
+    "signature": "320300",
+    "count": 7
+  },
+  {
+    "signature": "330102",
+    "count": 7
+  },
+  {
+    "signature": "330110",
+    "count": 7
+  },
+  {
+    "signature": "330200",
+    "count": 7
+  },
+  {
+    "signature": "000133",
+    "count": 6
+  },
+  {
+    "signature": "000312",
+    "count": 6
+  },
+  {
+    "signature": "001123",
+    "count": 6
+  },
+  {
+    "signature": "001303",
+    "count": 6
+  },
+  {
+    "signature": "002113",
+    "count": 6
+  },
+  {
+    "signature": "002130",
+    "count": 6
+  },
+  {
+    "signature": "002211",
+    "count": 6
+  },
+  {
+    "signature": "002212",
+    "count": 6
+  },
+  {
+    "signature": "003103",
+    "count": 6
+  },
+  {
+    "signature": "003202",
+    "count": 6
+  },
+  {
+    "signature": "003210",
+    "count": 6
+  },
+  {
+    "signature": "010132",
+    "count": 6
+  },
+  {
+    "signature": "011131",
+    "count": 6
+  },
+  {
+    "signature": "012103",
+    "count": 6
+  },
+  {
+    "signature": "020113",
+    "count": 6
+  },
+  {
+    "signature": "020131",
+    "count": 6
+  },
+  {
+    "signature": "020212",
+    "count": 6
+  },
+  {
+    "signature": "021022",
+    "count": 6
+  },
+  {
+    "signature": "021202",
+    "count": 6
+  },
+  {
+    "signature": "022003",
+    "count": 6
+  },
+  {
+    "signature": "022300",
+    "count": 6
+  },
+  {
+    "signature": "023030",
+    "count": 6
+  },
+  {
+    "signature": "030131",
+    "count": 6
+  },
+  {
+    "signature": "033100",
+    "count": 6
+  },
+  {
+    "signature": "100222",
+    "count": 6
+  },
+  {
+    "signature": "102021",
+    "count": 6
+  },
+  {
+    "signature": "102103",
+    "count": 6
+  },
+  {
+    "signature": "102202",
+    "count": 6
+  },
+  {
+    "signature": "110113",
+    "count": 6
+  },
+  {
+    "signature": "110310",
+    "count": 6
+  },
+  {
+    "signature": "112003",
+    "count": 6
+  },
+  {
+    "signature": "113110",
+    "count": 6
+  },
+  {
+    "signature": "113112",
+    "count": 6
+  },
+  {
+    "signature": "120031",
+    "count": 6
+  },
+  {
+    "signature": "120120",
+    "count": 6
+  },
+  {
+    "signature": "122110",
+    "count": 6
+  },
+  {
+    "signature": "131020",
+    "count": 6
+  },
+  {
+    "signature": "133001",
+    "count": 6
+  },
+  {
+    "signature": "200031",
+    "count": 6
+  },
+  {
+    "signature": "200220",
+    "count": 6
+  },
+  {
+    "signature": "200302",
+    "count": 6
+  },
+  {
+    "signature": "201012",
+    "count": 6
+  },
+  {
+    "signature": "201220",
+    "count": 6
+  },
+  {
+    "signature": "202120",
+    "count": 6
+  },
+  {
+    "signature": "203030",
+    "count": 6
+  },
+  {
+    "signature": "210103",
+    "count": 6
+  },
+  {
+    "signature": "210120",
+    "count": 6
+  },
+  {
+    "signature": "211011",
+    "count": 6
+  },
+  {
+    "signature": "211210",
+    "count": 6
+  },
+  {
+    "signature": "220022",
+    "count": 6
+  },
+  {
+    "signature": "230110",
+    "count": 6
+  },
+  {
+    "signature": "233000",
+    "count": 6
+  },
+  {
+    "signature": "300022",
+    "count": 6
+  },
+  {
+    "signature": "300121",
+    "count": 6
+  },
+  {
+    "signature": "300130",
+    "count": 6
+  },
+  {
+    "signature": "300301",
+    "count": 6
+  },
+  {
+    "signature": "301102",
+    "count": 6
+  },
+  {
+    "signature": "301111",
+    "count": 6
+  },
+  {
+    "signature": "301300",
+    "count": 6
+  },
+  {
+    "signature": "310102",
+    "count": 6
+  },
+  {
+    "signature": "310301",
+    "count": 6
+  },
+  {
+    "signature": "312020",
+    "count": 6
+  },
+  {
+    "signature": "320012",
+    "count": 6
+  },
+  {
+    "signature": "320013",
+    "count": 6
+  },
+  {
+    "signature": "320210",
+    "count": 6
+  },
+  {
+    "signature": "000313",
+    "count": 5
+  },
+  {
+    "signature": "001213",
+    "count": 5
+  },
+  {
+    "signature": "001311",
+    "count": 5
+  },
+  {
+    "signature": "001312",
+    "count": 5
+  },
+  {
+    "signature": "002122",
+    "count": 5
+  },
+  {
+    "signature": "002221",
+    "count": 5
+  },
+  {
+    "signature": "002302",
+    "count": 5
+  },
+  {
+    "signature": "002310",
+    "count": 5
+  },
+  {
+    "signature": "010123",
+    "count": 5
+  },
+  {
+    "signature": "011113",
+    "count": 5
+  },
+  {
+    "signature": "011220",
+    "count": 5
+  },
+  {
+    "signature": "011302",
+    "count": 5
+  },
+  {
+    "signature": "012120",
+    "count": 5
+  },
+  {
+    "signature": "012202",
+    "count": 5
+  },
+  {
+    "signature": "012212",
+    "count": 5
+  },
+  {
+    "signature": "013110",
+    "count": 5
+  },
+  {
+    "signature": "013200",
+    "count": 5
+  },
+  {
+    "signature": "020211",
+    "count": 5
+  },
+  {
+    "signature": "020303",
+    "count": 5
+  },
+  {
+    "signature": "021211",
+    "count": 5
+  },
+  {
+    "signature": "021212",
+    "count": 5
+  },
+  {
+    "signature": "022102",
+    "count": 5
+  },
+  {
+    "signature": "023011",
+    "count": 5
+  },
+  {
+    "signature": "023300",
+    "count": 5
+  },
+  {
+    "signature": "030113",
+    "count": 5
+  },
+  {
+    "signature": "030202",
+    "count": 5
+  },
+  {
+    "signature": "031003",
+    "count": 5
+  },
+  {
+    "signature": "031103",
+    "count": 5
+  },
+  {
+    "signature": "032002",
+    "count": 5
+  },
+  {
+    "signature": "032101",
+    "count": 5
+  },
+  {
+    "signature": "033012",
+    "count": 5
+  },
+  {
+    "signature": "033020",
+    "count": 5
+  },
+  {
+    "signature": "033200",
+    "count": 5
+  },
+  {
+    "signature": "101032",
+    "count": 5
+  },
+  {
+    "signature": "101112",
+    "count": 5
+  },
+  {
+    "signature": "101302",
+    "count": 5
+  },
+  {
+    "signature": "102013",
+    "count": 5
+  },
+  {
+    "signature": "103012",
+    "count": 5
+  },
+  {
+    "signature": "110112",
+    "count": 5
+  },
+  {
+    "signature": "110132",
+    "count": 5
+  },
+  {
+    "signature": "110320",
+    "count": 5
+  },
+  {
+    "signature": "111113",
+    "count": 5
+  },
+  {
+    "signature": "111212",
+    "count": 5
+  },
+  {
+    "signature": "112030",
+    "count": 5
+  },
+  {
+    "signature": "112300",
+    "count": 5
+  },
+  {
+    "signature": "113011",
+    "count": 5
+  },
+  {
+    "signature": "113020",
+    "count": 5
+  },
+  {
+    "signature": "120202",
+    "count": 5
+  },
+  {
+    "signature": "121003",
+    "count": 5
+  },
+  {
+    "signature": "121221",
+    "count": 5
+  },
+  {
+    "signature": "130021",
+    "count": 5
+  },
+  {
+    "signature": "130102",
+    "count": 5
+  },
+  {
+    "signature": "130111",
+    "count": 5
+  },
+  {
+    "signature": "130201",
+    "count": 5
+  },
+  {
+    "signature": "131201",
+    "count": 5
+  },
+  {
+    "signature": "201210",
+    "count": 5
+  },
+  {
+    "signature": "201301",
+    "count": 5
+  },
+  {
+    "signature": "203110",
+    "count": 5
+  },
+  {
+    "signature": "203200",
+    "count": 5
+  },
+  {
+    "signature": "210202",
+    "count": 5
+  },
+  {
+    "signature": "221201",
+    "count": 5
+  },
+  {
+    "signature": "221221",
+    "count": 5
+  },
+  {
+    "signature": "222110",
+    "count": 5
+  },
+  {
+    "signature": "223001",
+    "count": 5
+  },
+  {
+    "signature": "223010",
+    "count": 5
+  },
+  {
+    "signature": "230011",
+    "count": 5
+  },
+  {
+    "signature": "232010",
+    "count": 5
+  },
+  {
+    "signature": "300013",
+    "count": 5
+  },
+  {
+    "signature": "300302",
+    "count": 5
+  },
+  {
+    "signature": "301021",
+    "count": 5
+  },
+  {
+    "signature": "301301",
+    "count": 5
+  },
+  {
+    "signature": "302002",
+    "count": 5
+  },
+  {
+    "signature": "302011",
+    "count": 5
+  },
+  {
+    "signature": "310003",
+    "count": 5
+  },
+  {
+    "signature": "310012",
+    "count": 5
+  },
+  {
+    "signature": "310210",
+    "count": 5
+  },
+  {
+    "signature": "311110",
+    "count": 5
+  },
+  {
+    "signature": "311111",
+    "count": 5
+  },
+  {
+    "signature": "311200",
+    "count": 5
+  },
+  {
+    "signature": "320003",
+    "count": 5
+  },
+  {
+    "signature": "330020",
+    "count": 5
+  },
+  {
+    "signature": "330101",
+    "count": 5
+  },
+  {
+    "signature": "331010",
+    "count": 5
+  },
+  {
+    "signature": "001231",
+    "count": 4
+  },
+  {
+    "signature": "001313",
+    "count": 4
+  },
+  {
+    "signature": "001321",
+    "count": 4
+  },
+  {
+    "signature": "001330",
+    "count": 4
+  },
+  {
+    "signature": "002303",
+    "count": 4
+  },
+  {
+    "signature": "003032",
+    "count": 4
+  },
+  {
+    "signature": "003203",
+    "count": 4
+  },
+  {
+    "signature": "010231",
+    "count": 4
+  },
+  {
+    "signature": "010232",
+    "count": 4
+  },
+  {
+    "signature": "010312",
+    "count": 4
+  },
+  {
+    "signature": "010331",
+    "count": 4
+  },
+  {
+    "signature": "011033",
+    "count": 4
+  },
+  {
+    "signature": "011122",
+    "count": 4
+  },
+  {
+    "signature": "011213",
+    "count": 4
+  },
+  {
+    "signature": "013013",
+    "count": 4
+  },
+  {
+    "signature": "013031",
+    "count": 4
+  },
+  {
+    "signature": "013210",
+    "count": 4
+  },
+  {
+    "signature": "020222",
+    "count": 4
+  },
+  {
+    "signature": "020230",
+    "count": 4
+  },
+  {
+    "signature": "020232",
+    "count": 4
+  },
+  {
+    "signature": "021031",
+    "count": 4
+  },
+  {
+    "signature": "021032",
+    "count": 4
+  },
+  {
+    "signature": "022013",
+    "count": 4
+  },
+  {
+    "signature": "022201",
+    "count": 4
+  },
+  {
+    "signature": "023021",
+    "count": 4
+  },
+  {
+    "signature": "023031",
+    "count": 4
+  },
+  {
+    "signature": "030130",
+    "count": 4
+  },
+  {
+    "signature": "030303",
+    "count": 4
+  },
+  {
+    "signature": "031012",
+    "count": 4
+  },
+  {
+    "signature": "031030",
+    "count": 4
+  },
+  {
+    "signature": "031112",
+    "count": 4
+  },
+  {
+    "signature": "031202",
+    "count": 4
+  },
+  {
+    "signature": "031211",
+    "count": 4
+  },
+  {
+    "signature": "032003",
+    "count": 4
+  },
+  {
+    "signature": "033011",
+    "count": 4
+  },
+  {
+    "signature": "100033",
+    "count": 4
+  },
+  {
+    "signature": "100131",
+    "count": 4
+  },
+  {
+    "signature": "100213",
+    "count": 4
+  },
+  {
+    "signature": "100303",
+    "count": 4
+  },
+  {
+    "signature": "100321",
+    "count": 4
+  },
+  {
+    "signature": "101310",
+    "count": 4
+  },
+  {
+    "signature": "102113",
+    "count": 4
+  },
+  {
+    "signature": "110131",
+    "count": 4
+  },
+  {
+    "signature": "110212",
+    "count": 4
+  },
+  {
+    "signature": "111013",
+    "count": 4
+  },
+  {
+    "signature": "111023",
+    "count": 4
+  },
+  {
+    "signature": "111102",
+    "count": 4
+  },
+  {
+    "signature": "111120",
+    "count": 4
+  },
+  {
+    "signature": "111202",
+    "count": 4
+  },
+  {
+    "signature": "113021",
+    "count": 4
+  },
+  {
+    "signature": "120013",
+    "count": 4
+  },
+  {
+    "signature": "120022",
+    "count": 4
+  },
+  {
+    "signature": "120310",
+    "count": 4
+  },
+  {
+    "signature": "120320",
+    "count": 4
+  },
+  {
+    "signature": "121012",
+    "count": 4
+  },
+  {
+    "signature": "121021",
+    "count": 4
+  },
+  {
+    "signature": "121030",
+    "count": 4
+  },
+  {
+    "signature": "121121",
+    "count": 4
+  },
+  {
+    "signature": "121201",
+    "count": 4
+  },
+  {
+    "signature": "122101",
+    "count": 4
+  },
+  {
+    "signature": "122122",
+    "count": 4
+  },
+  {
+    "signature": "130013",
+    "count": 4
+  },
+  {
+    "signature": "130120",
+    "count": 4
+  },
+  {
+    "signature": "132010",
+    "count": 4
+  },
+  {
+    "signature": "132020",
+    "count": 4
+  },
+  {
+    "signature": "200023",
+    "count": 4
+  },
+  {
+    "signature": "200122",
+    "count": 4
+  },
+  {
+    "signature": "200203",
+    "count": 4
+  },
+  {
+    "signature": "201013",
+    "count": 4
+  },
+  {
+    "signature": "201022",
+    "count": 4
+  },
+  {
+    "signature": "202102",
+    "count": 4
+  },
+  {
+    "signature": "202111",
+    "count": 4
+  },
+  {
+    "signature": "202112",
+    "count": 4
+  },
+  {
+    "signature": "211021",
+    "count": 4
+  },
+  {
+    "signature": "211201",
+    "count": 4
+  },
+  {
+    "signature": "211211",
+    "count": 4
+  },
+  {
+    "signature": "212030",
+    "count": 4
+  },
+  {
+    "signature": "212110",
+    "count": 4
+  },
+  {
+    "signature": "212200",
+    "count": 4
+  },
+  {
+    "signature": "213011",
+    "count": 4
+  },
+  {
+    "signature": "220112",
+    "count": 4
+  },
+  {
+    "signature": "221002",
+    "count": 4
+  },
+  {
+    "signature": "222020",
+    "count": 4
+  },
+  {
+    "signature": "222100",
+    "count": 4
+  },
+  {
+    "signature": "232101",
+    "count": 4
+  },
+  {
+    "signature": "300023",
+    "count": 4
+  },
+  {
+    "signature": "300113",
+    "count": 4
+  },
+  {
+    "signature": "300203",
+    "count": 4
+  },
+  {
+    "signature": "300212",
+    "count": 4
+  },
+  {
+    "signature": "301030",
+    "count": 4
+  },
+  {
+    "signature": "301202",
+    "count": 4
+  },
+  {
+    "signature": "302031",
+    "count": 4
+  },
+  {
+    "signature": "302201",
+    "count": 4
+  },
+  {
+    "signature": "303011",
+    "count": 4
+  },
+  {
+    "signature": "303101",
+    "count": 4
+  },
+  {
+    "signature": "320022",
+    "count": 4
+  },
+  {
+    "signature": "320103",
+    "count": 4
+  },
+  {
+    "signature": "321110",
+    "count": 4
+  },
+  {
+    "signature": "322011",
+    "count": 4
+  },
+  {
+    "signature": "322101",
+    "count": 4
+  },
+  {
+    "signature": "330011",
+    "count": 4
+  },
+  {
+    "signature": "331001",
+    "count": 4
+  },
+  {
+    "signature": "331101",
+    "count": 4
+  },
+  {
+    "signature": "332001",
+    "count": 4
+  },
+  {
+    "signature": "000223",
+    "count": 3
+  },
+  {
+    "signature": "000233",
+    "count": 3
+  },
+  {
+    "signature": "000331",
+    "count": 3
+  },
+  {
+    "signature": "001223",
+    "count": 3
+  },
+  {
+    "signature": "001230",
+    "count": 3
+  },
+  {
+    "signature": "001232",
+    "count": 3
+  },
+  {
+    "signature": "003023",
+    "count": 3
+  },
+  {
+    "signature": "003113",
+    "count": 3
+  },
+  {
+    "signature": "003120",
+    "count": 3
+  },
+  {
+    "signature": "003211",
+    "count": 3
+  },
+  {
+    "signature": "003220",
+    "count": 3
+  },
+  {
+    "signature": "003221",
+    "count": 3
+  },
+  {
+    "signature": "003303",
+    "count": 3
+  },
+  {
+    "signature": "003310",
+    "count": 3
+  },
+  {
+    "signature": "010133",
+    "count": 3
+  },
+  {
+    "signature": "011203",
+    "count": 3
+  },
+  {
+    "signature": "011221",
+    "count": 3
+  },
+  {
+    "signature": "011310",
+    "count": 3
+  },
+  {
+    "signature": "011311",
+    "count": 3
+  },
+  {
+    "signature": "011321",
+    "count": 3
+  },
+  {
+    "signature": "012112",
+    "count": 3
+  },
+  {
+    "signature": "012301",
+    "count": 3
+  },
+  {
+    "signature": "013022",
+    "count": 3
+  },
+  {
+    "signature": "020033",
+    "count": 3
+  },
+  {
+    "signature": "020213",
+    "count": 3
+  },
+  {
+    "signature": "020330",
+    "count": 3
+  },
+  {
+    "signature": "021023",
+    "count": 3
+  },
+  {
+    "signature": "021121",
+    "count": 3
+  },
+  {
+    "signature": "022021",
+    "count": 3
+  },
+  {
+    "signature": "023201",
+    "count": 3
+  },
+  {
+    "signature": "023202",
+    "count": 3
+  },
+  {
+    "signature": "030112",
+    "count": 3
+  },
+  {
+    "signature": "030212",
+    "count": 3
+  },
+  {
+    "signature": "030221",
+    "count": 3
+  },
+  {
+    "signature": "030311",
+    "count": 3
+  },
+  {
+    "signature": "031102",
+    "count": 3
+  },
+  {
+    "signature": "031203",
+    "count": 3
+  },
+  {
+    "signature": "032012",
+    "count": 3
+  },
+  {
+    "signature": "032110",
+    "count": 3
+  },
+  {
+    "signature": "033003",
+    "count": 3
+  },
+  {
+    "signature": "033030",
+    "count": 3
+  },
+  {
+    "signature": "033101",
+    "count": 3
+  },
+  {
+    "signature": "100132",
+    "count": 3
+  },
+  {
+    "signature": "100311",
+    "count": 3
+  },
+  {
+    "signature": "100330",
+    "count": 3
+  },
+  {
+    "signature": "101023",
+    "count": 3
+  },
+  {
+    "signature": "101031",
+    "count": 3
+  },
+  {
+    "signature": "101130",
+    "count": 3
+  },
+  {
+    "signature": "101203",
+    "count": 3
+  },
+  {
+    "signature": "102112",
+    "count": 3
+  },
+  {
+    "signature": "102130",
+    "count": 3
+  },
+  {
+    "signature": "102203",
+    "count": 3
+  },
+  {
+    "signature": "102212",
+    "count": 3
+  },
+  {
+    "signature": "103013",
+    "count": 3
+  },
+  {
+    "signature": "103021",
+    "count": 3
+  },
+  {
+    "signature": "110023",
+    "count": 3
+  },
+  {
+    "signature": "110122",
+    "count": 3
+  },
+  {
+    "signature": "110123",
+    "count": 3
+  },
+  {
+    "signature": "110311",
+    "count": 3
+  },
+  {
+    "signature": "111012",
+    "count": 3
+  },
+  {
+    "signature": "111103",
+    "count": 3
+  },
+  {
+    "signature": "111112",
+    "count": 3
+  },
+  {
+    "signature": "111201",
+    "count": 3
+  },
+  {
+    "signature": "111203",
+    "count": 3
+  },
+  {
+    "signature": "111220",
+    "count": 3
+  },
+  {
+    "signature": "112012",
+    "count": 3
+  },
+  {
+    "signature": "112102",
+    "count": 3
+  },
+  {
+    "signature": "112112",
+    "count": 3
+  },
+  {
+    "signature": "112120",
+    "count": 3
+  },
+  {
+    "signature": "112210",
+    "count": 3
+  },
+  {
+    "signature": "113012",
+    "count": 3
+  },
+  {
+    "signature": "113030",
+    "count": 3
+  },
+  {
+    "signature": "113200",
+    "count": 3
+  },
+  {
+    "signature": "113300",
+    "count": 3
+  },
+  {
+    "signature": "120130",
+    "count": 3
+  },
+  {
+    "signature": "120221",
+    "count": 3
+  },
+  {
+    "signature": "121102",
+    "count": 3
+  },
+  {
+    "signature": "121120",
+    "count": 3
+  },
+  {
+    "signature": "121212",
+    "count": 3
+  },
+  {
+    "signature": "121220",
+    "count": 3
+  },
+  {
+    "signature": "121300",
+    "count": 3
+  },
+  {
+    "signature": "122013",
+    "count": 3
+  },
+  {
+    "signature": "122200",
+    "count": 3
+  },
+  {
+    "signature": "122300",
+    "count": 3
+  },
+  {
+    "signature": "123020",
+    "count": 3
+  },
+  {
+    "signature": "123100",
+    "count": 3
+  },
+  {
+    "signature": "130210",
+    "count": 3
+  },
+  {
+    "signature": "130212",
+    "count": 3
+  },
+  {
+    "signature": "130310",
+    "count": 3
+  },
+  {
+    "signature": "131011",
+    "count": 3
+  },
+  {
+    "signature": "131111",
+    "count": 3
+  },
+  {
+    "signature": "131300",
+    "count": 3
+  },
+  {
+    "signature": "132011",
+    "count": 3
+  },
+  {
+    "signature": "200123",
+    "count": 3
+  },
+  {
+    "signature": "200130",
+    "count": 3
+  },
+  {
+    "signature": "200211",
+    "count": 3
+  },
+  {
+    "signature": "200311",
+    "count": 3
+  },
+  {
+    "signature": "201103",
+    "count": 3
+  },
+  {
+    "signature": "201120",
+    "count": 3
+  },
+  {
+    "signature": "201202",
+    "count": 3
+  },
+  {
+    "signature": "201212",
+    "count": 3
+  },
+  {
+    "signature": "201310",
+    "count": 3
+  },
+  {
+    "signature": "202211",
+    "count": 3
+  },
+  {
+    "signature": "203300",
+    "count": 3
+  },
+  {
+    "signature": "203301",
+    "count": 3
+  },
+  {
+    "signature": "210031",
+    "count": 3
+  },
+  {
+    "signature": "210121",
+    "count": 3
+  },
+  {
+    "signature": "210130",
+    "count": 3
+  },
+  {
+    "signature": "210220",
+    "count": 3
+  },
+  {
+    "signature": "211012",
+    "count": 3
+  },
+  {
+    "signature": "211030",
+    "count": 3
+  },
+  {
+    "signature": "211102",
+    "count": 3
+  },
+  {
+    "signature": "211120",
+    "count": 3
+  },
+  {
+    "signature": "211300",
+    "count": 3
+  },
+  {
+    "signature": "212020",
+    "count": 3
+  },
+  {
+    "signature": "213020",
+    "count": 3
+  },
+  {
+    "signature": "213021",
+    "count": 3
+  },
+  {
+    "signature": "220013",
+    "count": 3
+  },
+  {
+    "signature": "220130",
+    "count": 3
+  },
+  {
+    "signature": "220210",
+    "count": 3
+  },
+  {
+    "signature": "221003",
+    "count": 3
+  },
+  {
+    "signature": "221011",
+    "count": 3
+  },
+  {
+    "signature": "221120",
+    "count": 3
+  },
+  {
+    "signature": "222222",
+    "count": 3
+  },
+  {
+    "signature": "230021",
+    "count": 3
+  },
+  {
+    "signature": "230030",
+    "count": 3
+  },
+  {
+    "signature": "230102",
+    "count": 3
+  },
+  {
+    "signature": "230310",
+    "count": 3
+  },
+  {
+    "signature": "231020",
+    "count": 3
+  },
+  {
+    "signature": "231131",
+    "count": 3
+  },
+  {
+    "signature": "231201",
+    "count": 3
+  },
+  {
+    "signature": "233001",
+    "count": 3
+  },
+  {
+    "signature": "300220",
+    "count": 3
+  },
+  {
+    "signature": "300310",
+    "count": 3
+  },
+  {
+    "signature": "301012",
+    "count": 3
+  },
+  {
+    "signature": "302211",
+    "count": 3
+  },
+  {
+    "signature": "303002",
+    "count": 3
+  },
+  {
+    "signature": "303200",
+    "count": 3
+  },
+  {
+    "signature": "310030",
+    "count": 3
+  },
+  {
+    "signature": "310120",
+    "count": 3
+  },
+  {
+    "signature": "311002",
+    "count": 3
+  },
+  {
+    "signature": "311201",
+    "count": 3
+  },
+  {
+    "signature": "312003",
+    "count": 3
+  },
+  {
+    "signature": "312010",
+    "count": 3
+  },
+  {
+    "signature": "312100",
+    "count": 3
+  },
+  {
+    "signature": "312101",
+    "count": 3
+  },
+  {
+    "signature": "320111",
+    "count": 3
+  },
+  {
+    "signature": "320130",
+    "count": 3
+  },
+  {
+    "signature": "321111",
+    "count": 3
+  },
+  {
+    "signature": "321201",
+    "count": 3
+  },
+  {
+    "signature": "323000",
+    "count": 3
+  },
+  {
+    "signature": "333000",
+    "count": 3
+  },
+  {
+    "signature": "333100",
+    "count": 3
+  },
+  {
+    "signature": "000323",
+    "count": 2
+  },
+  {
+    "signature": "000332",
+    "count": 2
+  },
+  {
+    "signature": "001133",
+    "count": 2
+  },
+  {
+    "signature": "001322",
+    "count": 2
+  },
+  {
+    "signature": "001331",
+    "count": 2
+  },
+  {
+    "signature": "002131",
+    "count": 2
+  },
+  {
+    "signature": "002132",
+    "count": 2
+  },
+  {
+    "signature": "002133",
+    "count": 2
+  },
+  {
+    "signature": "002222",
+    "count": 2
+  },
+  {
+    "signature": "003022",
+    "count": 2
+  },
+  {
+    "signature": "003033",
+    "count": 2
+  },
+  {
+    "signature": "003112",
+    "count": 2
+  },
+  {
+    "signature": "003122",
+    "count": 2
+  },
+  {
+    "signature": "003130",
+    "count": 2
+  },
+  {
+    "signature": "003131",
+    "count": 2
+  },
+  {
+    "signature": "010223",
+    "count": 2
+  },
+  {
+    "signature": "010322",
+    "count": 2
+  },
+  {
+    "signature": "011211",
+    "count": 2
+  },
+  {
+    "signature": "011303",
+    "count": 2
+  },
+  {
+    "signature": "012033",
+    "count": 2
+  },
+  {
+    "signature": "012113",
+    "count": 2
+  },
+  {
+    "signature": "012121",
+    "count": 2
+  },
+  {
+    "signature": "012203",
+    "count": 2
+  },
+  {
+    "signature": "012211",
+    "count": 2
+  },
+  {
+    "signature": "012221",
+    "count": 2
+  },
+  {
+    "signature": "012310",
+    "count": 2
+  },
+  {
+    "signature": "012320",
+    "count": 2
+  },
+  {
+    "signature": "012331",
+    "count": 2
+  },
+  {
+    "signature": "013102",
+    "count": 2
+  },
+  {
+    "signature": "013111",
+    "count": 2
+  },
+  {
+    "signature": "013201",
+    "count": 2
+  },
+  {
+    "signature": "013202",
+    "count": 2
+  },
+  {
+    "signature": "013221",
+    "count": 2
+  },
+  {
+    "signature": "013222",
+    "count": 2
+  },
+  {
+    "signature": "013300",
+    "count": 2
+  },
+  {
+    "signature": "013302",
+    "count": 2
+  },
+  {
+    "signature": "020132",
+    "count": 2
+  },
+  {
+    "signature": "020221",
+    "count": 2
+  },
+  {
+    "signature": "020231",
+    "count": 2
+  },
+  {
+    "signature": "020321",
+    "count": 2
+  },
+  {
+    "signature": "020322",
+    "count": 2
+  },
+  {
+    "signature": "021103",
+    "count": 2
+  },
+  {
+    "signature": "021112",
+    "count": 2
+  },
+  {
+    "signature": "021113",
+    "count": 2
+  },
+  {
+    "signature": "021123",
+    "count": 2
+  },
+  {
+    "signature": "021130",
+    "count": 2
+  },
+  {
+    "signature": "021220",
+    "count": 2
+  },
+  {
+    "signature": "021302",
+    "count": 2
+  },
+  {
+    "signature": "021311",
+    "count": 2
+  },
+  {
+    "signature": "022023",
+    "count": 2
+  },
+  {
+    "signature": "022031",
+    "count": 2
+  },
+  {
+    "signature": "022103",
+    "count": 2
+  },
+  {
+    "signature": "022111",
+    "count": 2
+  },
+  {
+    "signature": "022112",
+    "count": 2
+  },
+  {
+    "signature": "022113",
+    "count": 2
+  },
+  {
+    "signature": "022122",
+    "count": 2
+  },
+  {
+    "signature": "022133",
+    "count": 2
+  },
+  {
+    "signature": "022221",
+    "count": 2
+  },
+  {
+    "signature": "022301",
+    "count": 2
+  },
+  {
+    "signature": "022302",
+    "count": 2
+  },
+  {
+    "signature": "022303",
+    "count": 2
+  },
+  {
+    "signature": "023110",
+    "count": 2
+  },
+  {
+    "signature": "030032",
+    "count": 2
+  },
+  {
+    "signature": "030132",
+    "count": 2
+  },
+  {
+    "signature": "030211",
+    "count": 2
+  },
+  {
+    "signature": "030220",
+    "count": 2
+  },
+  {
+    "signature": "030302",
+    "count": 2
+  },
+  {
+    "signature": "030320",
+    "count": 2
+  },
+  {
+    "signature": "031022",
+    "count": 2
+  },
+  {
+    "signature": "031031",
+    "count": 2
+  },
+  {
+    "signature": "031111",
+    "count": 2
+  },
+  {
+    "signature": "031113",
+    "count": 2
+  },
+  {
+    "signature": "031120",
+    "count": 2
+  },
+  {
+    "signature": "031220",
+    "count": 2
+  },
+  {
+    "signature": "031301",
+    "count": 2
+  },
+  {
+    "signature": "031302",
+    "count": 2
+  },
+  {
+    "signature": "032102",
+    "count": 2
+  },
+  {
+    "signature": "032120",
+    "count": 2
+  },
+  {
+    "signature": "032130",
+    "count": 2
+  },
+  {
+    "signature": "032211",
+    "count": 2
+  },
+  {
+    "signature": "032300",
+    "count": 2
+  },
+  {
+    "signature": "032303",
+    "count": 2
+  },
+  {
+    "signature": "033002",
+    "count": 2
+  },
+  {
+    "signature": "033300",
+    "count": 2
+  },
+  {
+    "signature": "100223",
+    "count": 2
+  },
+  {
+    "signature": "100230",
+    "count": 2
+  },
+  {
+    "signature": "100231",
+    "count": 2
+  },
+  {
+    "signature": "100320",
+    "count": 2
+  },
+  {
+    "signature": "100322",
+    "count": 2
+  },
+  {
+    "signature": "101122",
+    "count": 2
+  },
+  {
+    "signature": "101131",
+    "count": 2
+  },
+  {
+    "signature": "101221",
+    "count": 2
+  },
+  {
+    "signature": "101311",
+    "count": 2
+  },
+  {
+    "signature": "102022",
+    "count": 2
+  },
+  {
+    "signature": "102031",
+    "count": 2
+  },
+  {
+    "signature": "102033",
+    "count": 2
+  },
+  {
+    "signature": "102122",
+    "count": 2
+  },
+  {
+    "signature": "102210",
+    "count": 2
+  },
+  {
+    "signature": "102221",
+    "count": 2
+  },
+  {
+    "signature": "102310",
+    "count": 2
+  },
+  {
+    "signature": "103031",
+    "count": 2
+  },
+  {
+    "signature": "103102",
+    "count": 2
+  },
+  {
+    "signature": "103120",
+    "count": 2
+  },
+  {
+    "signature": "103121",
+    "count": 2
+  },
+  {
+    "signature": "103201",
+    "count": 2
+  },
+  {
+    "signature": "103301",
+    "count": 2
+  },
+  {
+    "signature": "103310",
+    "count": 2
+  },
+  {
+    "signature": "110203",
+    "count": 2
+  },
+  {
+    "signature": "110222",
+    "count": 2
+  },
+  {
+    "signature": "110230",
+    "count": 2
+  },
+  {
+    "signature": "110312",
+    "count": 2
+  },
+  {
+    "signature": "111022",
+    "count": 2
+  },
+  {
+    "signature": "111210",
+    "count": 2
+  },
+  {
+    "signature": "111211",
+    "count": 2
+  },
+  {
+    "signature": "111302",
+    "count": 2
+  },
+  {
+    "signature": "112021",
+    "count": 2
+  },
+  {
+    "signature": "112031",
+    "count": 2
+  },
+  {
+    "signature": "112121",
+    "count": 2
+  },
+  {
+    "signature": "113120",
+    "count": 2
+  },
+  {
+    "signature": "113202",
+    "count": 2
+  },
+  {
+    "signature": "120131",
+    "count": 2
+  },
+  {
+    "signature": "120311",
+    "count": 2
+  },
+  {
+    "signature": "121103",
+    "count": 2
+  },
+  {
+    "signature": "121301",
+    "count": 2
+  },
+  {
+    "signature": "122021",
+    "count": 2
+  },
+  {
+    "signature": "122201",
+    "count": 2
+  },
+  {
+    "signature": "123011",
+    "count": 2
+  },
+  {
+    "signature": "123030",
+    "count": 2
+  },
+  {
+    "signature": "123110",
+    "count": 2
+  },
+  {
+    "signature": "130030",
+    "count": 2
+  },
+  {
+    "signature": "131021",
+    "count": 2
+  },
+  {
+    "signature": "131031",
+    "count": 2
+  },
+  {
+    "signature": "131200",
+    "count": 2
+  },
+  {
+    "signature": "132100",
+    "count": 2
+  },
+  {
+    "signature": "132110",
+    "count": 2
+  },
+  {
+    "signature": "132200",
+    "count": 2
+  },
+  {
+    "signature": "132201",
+    "count": 2
+  },
+  {
+    "signature": "133011",
+    "count": 2
+  },
+  {
+    "signature": "133020",
+    "count": 2
+  },
+  {
+    "signature": "200032",
+    "count": 2
+  },
+  {
+    "signature": "200131",
+    "count": 2
+  },
+  {
+    "signature": "200132",
+    "count": 2
+  },
+  {
+    "signature": "200230",
+    "count": 2
+  },
+  {
+    "signature": "200320",
+    "count": 2
+  },
+  {
+    "signature": "200322",
+    "count": 2
+  },
+  {
+    "signature": "201033",
+    "count": 2
+  },
+  {
+    "signature": "201113",
+    "count": 2
+  },
+  {
+    "signature": "201121",
+    "count": 2
+  },
+  {
+    "signature": "201131",
+    "count": 2
+  },
+  {
+    "signature": "201213",
+    "count": 2
+  },
+  {
+    "signature": "202003",
+    "count": 2
+  },
+  {
+    "signature": "202030",
+    "count": 2
+  },
+  {
+    "signature": "202031",
+    "count": 2
+  },
+  {
+    "signature": "202202",
+    "count": 2
+  },
+  {
+    "signature": "203002",
+    "count": 2
+  },
+  {
+    "signature": "203012",
+    "count": 2
+  },
+  {
+    "signature": "210013",
+    "count": 2
+  },
+  {
+    "signature": "210113",
+    "count": 2
+  },
+  {
+    "signature": "210122",
+    "count": 2
+  },
+  {
+    "signature": "210203",
+    "count": 2
+  },
+  {
+    "signature": "210211",
+    "count": 2
+  },
+  {
+    "signature": "210212",
+    "count": 2
+  },
+  {
+    "signature": "210222",
+    "count": 2
+  },
+  {
+    "signature": "210320",
+    "count": 2
+  },
+  {
+    "signature": "211003",
+    "count": 2
+  },
+  {
+    "signature": "211113",
+    "count": 2
+  },
+  {
+    "signature": "211121",
+    "count": 2
+  },
+  {
+    "signature": "211202",
+    "count": 2
+  },
+  {
+    "signature": "211220",
+    "count": 2
+  },
+  {
+    "signature": "211221",
+    "count": 2
+  },
+  {
+    "signature": "211301",
+    "count": 2
+  },
+  {
+    "signature": "211310",
+    "count": 2
+  },
+  {
+    "signature": "212002",
+    "count": 2
+  },
+  {
+    "signature": "212003",
+    "count": 2
+  },
+  {
+    "signature": "212013",
+    "count": 2
+  },
+  {
+    "signature": "212102",
+    "count": 2
+  },
+  {
+    "signature": "212120",
+    "count": 2
+  },
+  {
+    "signature": "212130",
+    "count": 2
+  },
+  {
+    "signature": "212210",
+    "count": 2
+  },
+  {
+    "signature": "212211",
+    "count": 2
+  },
+  {
+    "signature": "213200",
+    "count": 2
+  },
+  {
+    "signature": "220102",
+    "count": 2
+  },
+  {
+    "signature": "220113",
+    "count": 2
+  },
+  {
+    "signature": "220120",
+    "count": 2
+  },
+  {
+    "signature": "220122",
+    "count": 2
+  },
+  {
+    "signature": "220303",
+    "count": 2
+  },
+  {
+    "signature": "221021",
+    "count": 2
+  },
+  {
+    "signature": "221113",
+    "count": 2
+  },
+  {
+    "signature": "221122",
+    "count": 2
+  },
+  {
+    "signature": "221212",
+    "count": 2
+  },
+  {
+    "signature": "221301",
+    "count": 2
+  },
+  {
+    "signature": "222002",
+    "count": 2
+  },
+  {
+    "signature": "222200",
+    "count": 2
+  },
+  {
+    "signature": "222212",
+    "count": 2
+  },
+  {
+    "signature": "222312",
+    "count": 2
+  },
+  {
+    "signature": "223011",
+    "count": 2
+  },
+  {
+    "signature": "223020",
+    "count": 2
+  },
+  {
+    "signature": "223101",
+    "count": 2
+  },
+  {
+    "signature": "223203",
+    "count": 2
+  },
+  {
+    "signature": "223213",
+    "count": 2
+  },
+  {
+    "signature": "230003",
+    "count": 2
+  },
+  {
+    "signature": "230111",
+    "count": 2
+  },
+  {
+    "signature": "230222",
+    "count": 2
+  },
+  {
+    "signature": "230300",
+    "count": 2
+  },
+  {
+    "signature": "231011",
+    "count": 2
+  },
+  {
+    "signature": "232012",
+    "count": 2
+  },
+  {
+    "signature": "232100",
+    "count": 2
+  },
+  {
+    "signature": "232103",
+    "count": 2
+  },
+  {
+    "signature": "233011",
+    "count": 2
+  },
+  {
+    "signature": "300031",
+    "count": 2
+  },
+  {
+    "signature": "300112",
+    "count": 2
+  },
+  {
+    "signature": "300122",
+    "count": 2
+  },
+  {
+    "signature": "300230",
+    "count": 2
+  },
+  {
+    "signature": "301013",
+    "count": 2
+  },
+  {
+    "signature": "301113",
+    "count": 2
+  },
+  {
+    "signature": "301120",
+    "count": 2
+  },
+  {
+    "signature": "301211",
+    "count": 2
+  },
+  {
+    "signature": "301220",
+    "count": 2
+  },
+  {
+    "signature": "301311",
+    "count": 2
+  },
+  {
+    "signature": "302013",
+    "count": 2
+  },
+  {
+    "signature": "302021",
+    "count": 2
+  },
+  {
+    "signature": "302130",
+    "count": 2
+  },
+  {
+    "signature": "303100",
+    "count": 2
+  },
+  {
+    "signature": "303102",
+    "count": 2
+  },
+  {
+    "signature": "303203",
+    "count": 2
+  },
+  {
+    "signature": "303222",
+    "count": 2
+  },
+  {
+    "signature": "303301",
+    "count": 2
+  },
+  {
+    "signature": "310022",
+    "count": 2
+  },
+  {
+    "signature": "310103",
+    "count": 2
+  },
+  {
+    "signature": "310112",
+    "count": 2
+  },
+  {
+    "signature": "310121",
+    "count": 2
+  },
+  {
+    "signature": "310130",
+    "count": 2
+  },
+  {
+    "signature": "310303",
+    "count": 2
+  },
+  {
+    "signature": "310310",
+    "count": 2
+  },
+  {
+    "signature": "311013",
+    "count": 2
+  },
+  {
+    "signature": "311231",
+    "count": 2
+  },
+  {
+    "signature": "312110",
+    "count": 2
+  },
+  {
+    "signature": "312113",
+    "count": 2
+  },
+  {
+    "signature": "312201",
+    "count": 2
+  },
+  {
+    "signature": "312312",
+    "count": 2
+  },
+  {
+    "signature": "313010",
+    "count": 2
+  },
+  {
+    "signature": "313100",
+    "count": 2
+  },
+  {
+    "signature": "320112",
+    "count": 2
+  },
+  {
+    "signature": "320120",
+    "count": 2
+  },
+  {
+    "signature": "320121",
+    "count": 2
+  },
+  {
+    "signature": "320220",
+    "count": 2
+  },
+  {
+    "signature": "321003",
+    "count": 2
+  },
+  {
+    "signature": "321200",
+    "count": 2
+  },
+  {
+    "signature": "321212",
+    "count": 2
+  },
+  {
+    "signature": "322020",
+    "count": 2
+  },
+  {
+    "signature": "322100",
+    "count": 2
+  },
+  {
+    "signature": "323011",
+    "count": 2
+  },
+  {
+    "signature": "323032",
+    "count": 2
+  },
+  {
+    "signature": "330002",
+    "count": 2
+  },
+  {
+    "signature": "330012",
+    "count": 2
+  },
+  {
+    "signature": "330030",
+    "count": 2
+  },
+  {
+    "signature": "330300",
+    "count": 2
+  },
+  {
+    "signature": "331201",
+    "count": 2
+  },
+  {
+    "signature": "331300",
+    "count": 2
+  },
+  {
+    "signature": "332000",
+    "count": 2
+  },
+  {
+    "signature": "332011",
+    "count": 2
+  },
+  {
+    "signature": "332110",
+    "count": 2
+  },
+  {
+    "signature": "333001",
+    "count": 2
+  },
+  {
+    "signature": "333333",
+    "count": 2
+  },
+  {
+    "signature": "000333",
+    "count": 1
+  },
+  {
+    "signature": "002123",
+    "count": 1
+  },
+  {
+    "signature": "002230",
+    "count": 1
+  },
+  {
+    "signature": "002231",
+    "count": 1
+  },
+  {
+    "signature": "002313",
+    "count": 1
+  },
+  {
+    "signature": "002320",
+    "count": 1
+  },
+  {
+    "signature": "003132",
+    "count": 1
+  },
+  {
+    "signature": "003212",
+    "count": 1
+  },
+  {
+    "signature": "003213",
+    "count": 1
+  },
+  {
+    "signature": "003230",
+    "count": 1
+  },
+  {
+    "signature": "003311",
+    "count": 1
+  },
+  {
+    "signature": "003320",
+    "count": 1
+  },
+  {
+    "signature": "010233",
+    "count": 1
+  },
+  {
+    "signature": "010313",
+    "count": 1
+  },
+  {
+    "signature": "010323",
+    "count": 1
+  },
+  {
+    "signature": "010332",
+    "count": 1
+  },
+  {
+    "signature": "011123",
+    "count": 1
+  },
+  {
+    "signature": "011132",
+    "count": 1
+  },
+  {
+    "signature": "011133",
+    "count": 1
+  },
+  {
+    "signature": "011222",
+    "count": 1
+  },
+  {
+    "signature": "011230",
+    "count": 1
+  },
+  {
+    "signature": "011231",
+    "count": 1
+  },
+  {
+    "signature": "011312",
+    "count": 1
+  },
+  {
+    "signature": "012023",
+    "count": 1
+  },
+  {
+    "signature": "012032",
+    "count": 1
+  },
+  {
+    "signature": "012122",
+    "count": 1
+  },
+  {
+    "signature": "012123",
+    "count": 1
+  },
+  {
+    "signature": "012130",
+    "count": 1
+  },
+  {
+    "signature": "012132",
+    "count": 1
+  },
+  {
+    "signature": "012213",
+    "count": 1
+  },
+  {
+    "signature": "012220",
+    "count": 1
+  },
+  {
+    "signature": "012222",
+    "count": 1
+  },
+  {
+    "signature": "012231",
+    "count": 1
+  },
+  {
+    "signature": "012330",
+    "count": 1
+  },
+  {
+    "signature": "012333",
+    "count": 1
+  },
+  {
+    "signature": "013120",
+    "count": 1
+  },
+  {
+    "signature": "013123",
+    "count": 1
+  },
+  {
+    "signature": "013131",
+    "count": 1
+  },
+  {
+    "signature": "013220",
+    "count": 1
+  },
+  {
+    "signature": "013231",
+    "count": 1
+  },
+  {
+    "signature": "013303",
+    "count": 1
+  },
+  {
+    "signature": "013310",
+    "count": 1
+  },
+  {
+    "signature": "013321",
+    "count": 1
+  },
+  {
+    "signature": "020123",
+    "count": 1
+  },
+  {
+    "signature": "020133",
+    "count": 1
+  },
+  {
+    "signature": "020223",
+    "count": 1
+  },
+  {
+    "signature": "020312",
+    "count": 1
+  },
+  {
+    "signature": "020323",
+    "count": 1
+  },
+  {
+    "signature": "021033",
+    "count": 1
+  },
+  {
+    "signature": "021122",
+    "count": 1
+  },
+  {
+    "signature": "021203",
+    "count": 1
+  },
+  {
+    "signature": "021303",
+    "count": 1
+  },
+  {
+    "signature": "021310",
+    "count": 1
+  },
+  {
+    "signature": "021313",
+    "count": 1
+  },
+  {
+    "signature": "021320",
+    "count": 1
+  },
+  {
+    "signature": "021323",
+    "count": 1
+  },
+  {
+    "signature": "022032",
+    "count": 1
+  },
+  {
+    "signature": "022033",
+    "count": 1
+  },
+  {
+    "signature": "022121",
+    "count": 1
+  },
+  {
+    "signature": "022132",
+    "count": 1
+  },
+  {
+    "signature": "022202",
+    "count": 1
+  },
+  {
+    "signature": "022210",
+    "count": 1
+  },
+  {
+    "signature": "022223",
+    "count": 1
+  },
+  {
+    "signature": "022310",
+    "count": 1
+  },
+  {
+    "signature": "022330",
+    "count": 1
+  },
+  {
+    "signature": "023002",
+    "count": 1
+  },
+  {
+    "signature": "023033",
+    "count": 1
+  },
+  {
+    "signature": "023102",
+    "count": 1
+  },
+  {
+    "signature": "023112",
+    "count": 1
+  },
+  {
+    "signature": "023120",
+    "count": 1
+  },
+  {
+    "signature": "023122",
+    "count": 1
+  },
+  {
+    "signature": "023200",
+    "count": 1
+  },
+  {
+    "signature": "023220",
+    "count": 1
+  },
+  {
+    "signature": "023333",
+    "count": 1
+  },
+  {
+    "signature": "030033",
+    "count": 1
+  },
+  {
+    "signature": "030122",
+    "count": 1
+  },
+  {
+    "signature": "030222",
+    "count": 1
+  },
+  {
+    "signature": "030231",
+    "count": 1
+  },
+  {
+    "signature": "030313",
+    "count": 1
+  },
+  {
+    "signature": "030322",
+    "count": 1
+  },
+  {
+    "signature": "030330",
+    "count": 1
+  },
+  {
+    "signature": "030333",
+    "count": 1
+  },
+  {
+    "signature": "031013",
+    "count": 1
+  },
+  {
+    "signature": "031023",
+    "count": 1
+  },
+  {
+    "signature": "031121",
+    "count": 1
+  },
+  {
+    "signature": "031123",
+    "count": 1
+  },
+  {
+    "signature": "031131",
+    "count": 1
+  },
+  {
+    "signature": "031210",
+    "count": 1
+  },
+  {
+    "signature": "031321",
+    "count": 1
+  },
+  {
+    "signature": "032013",
+    "count": 1
+  },
+  {
+    "signature": "032021",
+    "count": 1
+  },
+  {
+    "signature": "032022",
+    "count": 1
+  },
+  {
+    "signature": "032033",
+    "count": 1
+  },
+  {
+    "signature": "032103",
+    "count": 1
+  },
+  {
+    "signature": "032111",
+    "count": 1
+  },
+  {
+    "signature": "032113",
+    "count": 1
+  },
+  {
+    "signature": "032201",
+    "count": 1
+  },
+  {
+    "signature": "032202",
+    "count": 1
+  },
+  {
+    "signature": "032220",
+    "count": 1
+  },
+  {
+    "signature": "032222",
+    "count": 1
+  },
+  {
+    "signature": "032302",
+    "count": 1
+  },
+  {
+    "signature": "033021",
+    "count": 1
+  },
+  {
+    "signature": "033022",
+    "count": 1
+  },
+  {
+    "signature": "033103",
+    "count": 1
+  },
+  {
+    "signature": "033122",
+    "count": 1
+  },
+  {
+    "signature": "033213",
+    "count": 1
+  },
+  {
+    "signature": "033301",
+    "count": 1
+  },
+  {
+    "signature": "100123",
+    "count": 1
+  },
+  {
+    "signature": "100133",
+    "count": 1
+  },
+  {
+    "signature": "100232",
+    "count": 1
+  },
+  {
+    "signature": "100233",
+    "count": 1
+  },
+  {
+    "signature": "100313",
+    "count": 1
+  },
+  {
+    "signature": "100323",
+    "count": 1
+  },
+  {
+    "signature": "100331",
+    "count": 1
+  },
+  {
+    "signature": "101033",
+    "count": 1
+  },
+  {
+    "signature": "101123",
+    "count": 1
+  },
+  {
+    "signature": "101132",
+    "count": 1
+  },
+  {
+    "signature": "101213",
+    "count": 1
+  },
+  {
+    "signature": "101222",
+    "count": 1
+  },
+  {
+    "signature": "101223",
+    "count": 1
+  },
+  {
+    "signature": "101303",
+    "count": 1
+  },
+  {
+    "signature": "101321",
+    "count": 1
+  },
+  {
+    "signature": "101330",
+    "count": 1
+  },
+  {
+    "signature": "101331",
+    "count": 1
+  },
+  {
+    "signature": "102023",
+    "count": 1
+  },
+  {
+    "signature": "102131",
+    "count": 1
+  },
+  {
+    "signature": "102213",
+    "count": 1
+  },
+  {
+    "signature": "102220",
+    "count": 1
+  },
+  {
+    "signature": "102222",
+    "count": 1
+  },
+  {
+    "signature": "102230",
+    "count": 1
+  },
+  {
+    "signature": "102301",
+    "count": 1
+  },
+  {
+    "signature": "102302",
+    "count": 1
+  },
+  {
+    "signature": "102303",
+    "count": 1
+  },
+  {
+    "signature": "102311",
+    "count": 1
+  },
+  {
+    "signature": "103003",
+    "count": 1
+  },
+  {
+    "signature": "103032",
+    "count": 1
+  },
+  {
+    "signature": "103103",
+    "count": 1
+  },
+  {
+    "signature": "103111",
+    "count": 1
+  },
+  {
+    "signature": "103112",
+    "count": 1
+  },
+  {
+    "signature": "103122",
+    "count": 1
+  },
+  {
+    "signature": "103221",
+    "count": 1
+  },
+  {
+    "signature": "103230",
+    "count": 1
+  },
+  {
+    "signature": "103302",
+    "count": 1
+  },
+  {
+    "signature": "110032",
+    "count": 1
+  },
+  {
+    "signature": "110133",
+    "count": 1
+  },
+  {
+    "signature": "110213",
+    "count": 1
+  },
+  {
+    "signature": "110221",
+    "count": 1
+  },
+  {
+    "signature": "110303",
+    "count": 1
+  },
+  {
+    "signature": "110321",
+    "count": 1
+  },
+  {
+    "signature": "110330",
+    "count": 1
+  },
+  {
+    "signature": "111033",
+    "count": 1
+  },
+  {
+    "signature": "111121",
+    "count": 1
+  },
+  {
+    "signature": "111122",
+    "count": 1
+  },
+  {
+    "signature": "111132",
+    "count": 1
+  },
+  {
+    "signature": "111221",
+    "count": 1
+  },
+  {
+    "signature": "111222",
+    "count": 1
+  },
+  {
+    "signature": "111230",
+    "count": 1
+  },
+  {
+    "signature": "111231",
+    "count": 1
+  },
+  {
+    "signature": "111310",
+    "count": 1
+  },
+  {
+    "signature": "111311",
+    "count": 1
+  },
+  {
+    "signature": "111323",
+    "count": 1
+  },
+  {
+    "signature": "112013",
+    "count": 1
+  },
+  {
+    "signature": "112032",
+    "count": 1
+  },
+  {
+    "signature": "112130",
+    "count": 1
+  },
+  {
+    "signature": "112131",
+    "count": 1
+  },
+  {
+    "signature": "112220",
+    "count": 1
+  },
+  {
+    "signature": "112221",
+    "count": 1
+  },
+  {
+    "signature": "112222",
+    "count": 1
+  },
+  {
+    "signature": "112302",
+    "count": 1
+  },
+  {
+    "signature": "112310",
+    "count": 1
+  },
+  {
+    "signature": "112312",
+    "count": 1
+  },
+  {
+    "signature": "112323",
+    "count": 1
+  },
+  {
+    "signature": "112330",
+    "count": 1
+  },
+  {
+    "signature": "112331",
+    "count": 1
+  },
+  {
+    "signature": "113002",
+    "count": 1
+  },
+  {
+    "signature": "113003",
+    "count": 1
+  },
+  {
+    "signature": "113031",
+    "count": 1
+  },
+  {
+    "signature": "113102",
+    "count": 1
+  },
+  {
+    "signature": "113103",
+    "count": 1
+  },
+  {
+    "signature": "113133",
+    "count": 1
+  },
+  {
+    "signature": "113201",
+    "count": 1
+  },
+  {
+    "signature": "113203",
+    "count": 1
+  },
+  {
+    "signature": "113310",
+    "count": 1
+  },
+  {
+    "signature": "113312",
+    "count": 1
+  },
+  {
+    "signature": "113323",
+    "count": 1
+  },
+  {
+    "signature": "120023",
+    "count": 1
+  },
+  {
+    "signature": "120113",
+    "count": 1
+  },
+  {
+    "signature": "120132",
+    "count": 1
+  },
+  {
+    "signature": "120203",
+    "count": 1
+  },
+  {
+    "signature": "120212",
+    "count": 1
+  },
+  {
+    "signature": "120220",
+    "count": 1
+  },
+  {
+    "signature": "120222",
+    "count": 1
+  },
+  {
+    "signature": "120231",
+    "count": 1
+  },
+  {
+    "signature": "120302",
+    "count": 1
+  },
+  {
+    "signature": "120312",
+    "count": 1
+  },
+  {
+    "signature": "121013",
+    "count": 1
+  },
+  {
+    "signature": "121022",
+    "count": 1
+  },
+  {
+    "signature": "121023",
+    "count": 1
+  },
+  {
+    "signature": "121032",
+    "count": 1
+  },
+  {
+    "signature": "121112",
+    "count": 1
+  },
+  {
+    "signature": "121113",
+    "count": 1
+  },
+  {
+    "signature": "121122",
+    "count": 1
+  },
+  {
+    "signature": "121211",
+    "count": 1
+  },
+  {
+    "signature": "121231",
+    "count": 1
+  },
+  {
+    "signature": "121302",
+    "count": 1
+  },
+  {
+    "signature": "122002",
+    "count": 1
+  },
+  {
+    "signature": "122003",
+    "count": 1
+  },
+  {
+    "signature": "122111",
+    "count": 1
+  },
+  {
+    "signature": "122112",
+    "count": 1
+  },
+  {
+    "signature": "122113",
+    "count": 1
+  },
+  {
+    "signature": "122120",
+    "count": 1
+  },
+  {
+    "signature": "122121",
+    "count": 1
+  },
+  {
+    "signature": "122210",
+    "count": 1
+  },
+  {
+    "signature": "122222",
+    "count": 1
+  },
+  {
+    "signature": "122232",
+    "count": 1
+  },
+  {
+    "signature": "122233",
+    "count": 1
+  },
+  {
+    "signature": "122301",
+    "count": 1
+  },
+  {
+    "signature": "122322",
+    "count": 1
+  },
+  {
+    "signature": "123021",
+    "count": 1
+  },
+  {
+    "signature": "123022",
+    "count": 1
+  },
+  {
+    "signature": "123201",
+    "count": 1
+  },
+  {
+    "signature": "123212",
+    "count": 1
+  },
+  {
+    "signature": "123221",
+    "count": 1
+  },
+  {
+    "signature": "123300",
+    "count": 1
+  },
+  {
+    "signature": "130003",
+    "count": 1
+  },
+  {
+    "signature": "130022",
+    "count": 1
+  },
+  {
+    "signature": "130023",
+    "count": 1
+  },
+  {
+    "signature": "130032",
+    "count": 1
+  },
+  {
+    "signature": "130103",
+    "count": 1
+  },
+  {
+    "signature": "130112",
+    "count": 1
+  },
+  {
+    "signature": "130113",
+    "count": 1
+  },
+  {
+    "signature": "130122",
+    "count": 1
+  },
+  {
+    "signature": "130130",
+    "count": 1
+  },
+  {
+    "signature": "130220",
+    "count": 1
+  },
+  {
+    "signature": "130221",
+    "count": 1
+  },
+  {
+    "signature": "130223",
+    "count": 1
+  },
+  {
+    "signature": "130231",
+    "count": 1
+  },
+  {
+    "signature": "130302",
+    "count": 1
+  },
+  {
+    "signature": "130312",
+    "count": 1
+  },
+  {
+    "signature": "131002",
+    "count": 1
+  },
+  {
+    "signature": "131012",
+    "count": 1
+  },
+  {
+    "signature": "131102",
+    "count": 1
+  },
+  {
+    "signature": "131110",
+    "count": 1
+  },
+  {
+    "signature": "131211",
+    "count": 1
+  },
+  {
+    "signature": "131223",
+    "count": 1
+  },
+  {
+    "signature": "131312",
+    "count": 1
+  },
+  {
+    "signature": "131313",
+    "count": 1
+  },
+  {
+    "signature": "132021",
+    "count": 1
+  },
+  {
+    "signature": "132101",
+    "count": 1
+  },
+  {
+    "signature": "132120",
+    "count": 1
+  },
+  {
+    "signature": "132202",
+    "count": 1
+  },
+  {
+    "signature": "132203",
+    "count": 1
+  },
+  {
+    "signature": "132221",
+    "count": 1
+  },
+  {
+    "signature": "132222",
+    "count": 1
+  },
+  {
+    "signature": "132223",
+    "count": 1
+  },
+  {
+    "signature": "132302",
+    "count": 1
+  },
+  {
+    "signature": "132323",
+    "count": 1
+  },
+  {
+    "signature": "133030",
+    "count": 1
+  },
+  {
+    "signature": "133100",
+    "count": 1
+  },
+  {
+    "signature": "133110",
+    "count": 1
+  },
+  {
+    "signature": "133113",
+    "count": 1
+  },
+  {
+    "signature": "133121",
+    "count": 1
+  },
+  {
+    "signature": "200033",
+    "count": 1
+  },
+  {
+    "signature": "200213",
+    "count": 1
+  },
+  {
+    "signature": "200221",
+    "count": 1
+  },
+  {
+    "signature": "200232",
+    "count": 1
+  },
+  {
+    "signature": "200303",
+    "count": 1
+  },
+  {
+    "signature": "200330",
+    "count": 1
+  },
+  {
+    "signature": "201032",
+    "count": 1
+  },
+  {
+    "signature": "201112",
+    "count": 1
+  },
+  {
+    "signature": "201122",
+    "count": 1
+  },
+  {
+    "signature": "201123",
+    "count": 1
+  },
+  {
+    "signature": "201130",
+    "count": 1
+  },
+  {
+    "signature": "201211",
+    "count": 1
+  },
+  {
+    "signature": "201222",
+    "count": 1
+  },
+  {
+    "signature": "201302",
+    "count": 1
+  },
+  {
+    "signature": "201311",
+    "count": 1
+  },
+  {
+    "signature": "201320",
+    "count": 1
+  },
+  {
+    "signature": "201321",
+    "count": 1
+  },
+  {
+    "signature": "202021",
+    "count": 1
+  },
+  {
+    "signature": "202022",
+    "count": 1
+  },
+  {
+    "signature": "202103",
+    "count": 1
+  },
+  {
+    "signature": "202113",
+    "count": 1
+  },
+  {
+    "signature": "202121",
+    "count": 1
+  },
+  {
+    "signature": "202122",
+    "count": 1
+  },
+  {
+    "signature": "202210",
+    "count": 1
+  },
+  {
+    "signature": "202221",
+    "count": 1
+  },
+  {
+    "signature": "202300",
+    "count": 1
+  },
+  {
+    "signature": "202301",
+    "count": 1
+  },
+  {
+    "signature": "202310",
+    "count": 1
+  },
+  {
+    "signature": "202320",
+    "count": 1
+  },
+  {
+    "signature": "202331",
+    "count": 1
+  },
+  {
+    "signature": "203020",
+    "count": 1
+  },
+  {
+    "signature": "203023",
+    "count": 1
+  },
+  {
+    "signature": "203111",
+    "count": 1
+  },
+  {
+    "signature": "203113",
+    "count": 1
+  },
+  {
+    "signature": "203120",
+    "count": 1
+  },
+  {
+    "signature": "203121",
+    "count": 1
+  },
+  {
+    "signature": "203122",
+    "count": 1
+  },
+  {
+    "signature": "203210",
+    "count": 1
+  },
+  {
+    "signature": "203212",
+    "count": 1
+  },
+  {
+    "signature": "203220",
+    "count": 1
+  },
+  {
+    "signature": "203313",
+    "count": 1
+  },
+  {
+    "signature": "210032",
+    "count": 1
+  },
+  {
+    "signature": "210033",
+    "count": 1
+  },
+  {
+    "signature": "210213",
+    "count": 1
+  },
+  {
+    "signature": "210302",
+    "count": 1
+  },
+  {
+    "signature": "210303",
+    "count": 1
+  },
+  {
+    "signature": "210311",
+    "count": 1
+  },
+  {
+    "signature": "210312",
+    "count": 1
+  },
+  {
+    "signature": "210321",
+    "count": 1
+  },
+  {
+    "signature": "210322",
+    "count": 1
+  },
+  {
+    "signature": "210330",
+    "count": 1
+  },
+  {
+    "signature": "211013",
+    "count": 1
+  },
+  {
+    "signature": "211022",
+    "count": 1
+  },
+  {
+    "signature": "211112",
+    "count": 1
+  },
+  {
+    "signature": "211122",
+    "count": 1
+  },
+  {
+    "signature": "211131",
+    "count": 1
+  },
+  {
+    "signature": "211212",
+    "count": 1
+  },
+  {
+    "signature": "211223",
+    "count": 1
+  },
+  {
+    "signature": "211230",
+    "count": 1
+  },
+  {
+    "signature": "211311",
+    "count": 1
+  },
+  {
+    "signature": "211330",
+    "count": 1
+  },
+  {
+    "signature": "212021",
+    "count": 1
+  },
+  {
+    "signature": "212103",
+    "count": 1
+  },
+  {
+    "signature": "212121",
+    "count": 1
+  },
+  {
+    "signature": "212203",
+    "count": 1
+  },
+  {
+    "signature": "212212",
+    "count": 1
+  },
+  {
+    "signature": "212222",
+    "count": 1
+  },
+  {
+    "signature": "213002",
+    "count": 1
+  },
+  {
+    "signature": "213012",
+    "count": 1
+  },
+  {
+    "signature": "213013",
+    "count": 1
+  },
+  {
+    "signature": "213030",
+    "count": 1
+  },
+  {
+    "signature": "213101",
+    "count": 1
+  },
+  {
+    "signature": "213110",
+    "count": 1
+  },
+  {
+    "signature": "213220",
+    "count": 1
+  },
+  {
+    "signature": "220003",
+    "count": 1
+  },
+  {
+    "signature": "220023",
+    "count": 1
+  },
+  {
+    "signature": "220031",
+    "count": 1
+  },
+  {
+    "signature": "220131",
+    "count": 1
+  },
+  {
+    "signature": "220132",
+    "count": 1
+  },
+  {
+    "signature": "220202",
+    "count": 1
+  },
+  {
+    "signature": "220211",
+    "count": 1
+  },
+  {
+    "signature": "220220",
+    "count": 1
+  },
+  {
+    "signature": "220310",
+    "count": 1
+  },
+  {
+    "signature": "220323",
+    "count": 1
+  },
+  {
+    "signature": "221030",
+    "count": 1
+  },
+  {
+    "signature": "221102",
+    "count": 1
+  },
+  {
+    "signature": "221112",
+    "count": 1
+  },
+  {
+    "signature": "221132",
+    "count": 1
+  },
+  {
+    "signature": "221313",
+    "count": 1
+  },
+  {
+    "signature": "221320",
+    "count": 1
+  },
+  {
+    "signature": "221322",
+    "count": 1
+  },
+  {
+    "signature": "222012",
+    "count": 1
+  },
+  {
+    "signature": "222021",
+    "count": 1
+  },
+  {
+    "signature": "222123",
+    "count": 1
+  },
+  {
+    "signature": "222202",
+    "count": 1
+  },
+  {
+    "signature": "222221",
+    "count": 1
+  },
+  {
+    "signature": "222302",
+    "count": 1
+  },
+  {
+    "signature": "222311",
+    "count": 1
+  },
+  {
+    "signature": "222321",
+    "count": 1
+  },
+  {
+    "signature": "223002",
+    "count": 1
+  },
+  {
+    "signature": "223013",
+    "count": 1
+  },
+  {
+    "signature": "223033",
+    "count": 1
+  },
+  {
+    "signature": "223110",
+    "count": 1
+  },
+  {
+    "signature": "223200",
+    "count": 1
+  },
+  {
+    "signature": "223201",
+    "count": 1
+  },
+  {
+    "signature": "223220",
+    "count": 1
+  },
+  {
+    "signature": "223322",
+    "count": 1
+  },
+  {
+    "signature": "230012",
+    "count": 1
+  },
+  {
+    "signature": "230103",
+    "count": 1
+  },
+  {
+    "signature": "230121",
+    "count": 1
+  },
+  {
+    "signature": "230130",
+    "count": 1
+  },
+  {
+    "signature": "230132",
+    "count": 1
+  },
+  {
+    "signature": "230201",
+    "count": 1
+  },
+  {
+    "signature": "230210",
+    "count": 1
+  },
+  {
+    "signature": "230220",
+    "count": 1
+  },
+  {
+    "signature": "230301",
+    "count": 1
+  },
+  {
+    "signature": "230302",
+    "count": 1
+  },
+  {
+    "signature": "230321",
+    "count": 1
+  },
+  {
+    "signature": "231002",
+    "count": 1
+  },
+  {
+    "signature": "231013",
+    "count": 1
+  },
+  {
+    "signature": "231021",
+    "count": 1
+  },
+  {
+    "signature": "231030",
+    "count": 1
+  },
+  {
+    "signature": "231111",
+    "count": 1
+  },
+  {
+    "signature": "231200",
+    "count": 1
+  },
+  {
+    "signature": "231211",
+    "count": 1
+  },
+  {
+    "signature": "231212",
+    "count": 1
+  },
+  {
+    "signature": "231222",
+    "count": 1
+  },
+  {
+    "signature": "231231",
+    "count": 1
+  },
+  {
+    "signature": "231313",
+    "count": 1
+  },
+  {
+    "signature": "231320",
+    "count": 1
+  },
+  {
+    "signature": "231321",
+    "count": 1
+  },
+  {
+    "signature": "232011",
+    "count": 1
+  },
+  {
+    "signature": "232020",
+    "count": 1
+  },
+  {
+    "signature": "232030",
+    "count": 1
+  },
+  {
+    "signature": "232031",
+    "count": 1
+  },
+  {
+    "signature": "232033",
+    "count": 1
+  },
+  {
+    "signature": "232110",
+    "count": 1
+  },
+  {
+    "signature": "232232",
+    "count": 1
+  },
+  {
+    "signature": "232302",
+    "count": 1
+  },
+  {
+    "signature": "232303",
+    "count": 1
+  },
+  {
+    "signature": "232320",
+    "count": 1
+  },
+  {
+    "signature": "232323",
+    "count": 1
+  },
+  {
+    "signature": "233010",
+    "count": 1
+  },
+  {
+    "signature": "233020",
+    "count": 1
+  },
+  {
+    "signature": "233023",
+    "count": 1
+  },
+  {
+    "signature": "233232",
+    "count": 1
+  },
+  {
+    "signature": "300131",
+    "count": 1
+  },
+  {
+    "signature": "300132",
+    "count": 1
+  },
+  {
+    "signature": "300133",
+    "count": 1
+  },
+  {
+    "signature": "300211",
+    "count": 1
+  },
+  {
+    "signature": "300221",
+    "count": 1
+  },
+  {
+    "signature": "300232",
+    "count": 1
+  },
+  {
+    "signature": "300303",
+    "count": 1
+  },
+  {
+    "signature": "300320",
+    "count": 1
+  },
+  {
+    "signature": "300332",
+    "count": 1
+  },
+  {
+    "signature": "301031",
+    "count": 1
+  },
+  {
+    "signature": "301103",
+    "count": 1
+  },
+  {
+    "signature": "301123",
+    "count": 1
+  },
+  {
+    "signature": "301130",
+    "count": 1
+  },
+  {
+    "signature": "301203",
+    "count": 1
+  },
+  {
+    "signature": "301210",
+    "count": 1
+  },
+  {
+    "signature": "301310",
+    "count": 1
+  },
+  {
+    "signature": "301320",
+    "count": 1
+  },
+  {
+    "signature": "301321",
+    "count": 1
+  },
+  {
+    "signature": "302003",
+    "count": 1
+  },
+  {
+    "signature": "302012",
+    "count": 1
+  },
+  {
+    "signature": "302110",
+    "count": 1
+  },
+  {
+    "signature": "302111",
+    "count": 1
+  },
+  {
+    "signature": "302121",
+    "count": 1
+  },
+  {
+    "signature": "302203",
+    "count": 1
+  },
+  {
+    "signature": "302210",
+    "count": 1
+  },
+  {
+    "signature": "302220",
+    "count": 1
+  },
+  {
+    "signature": "302221",
+    "count": 1
+  },
+  {
+    "signature": "302300",
+    "count": 1
+  },
+  {
+    "signature": "302310",
+    "count": 1
+  },
+  {
+    "signature": "302311",
+    "count": 1
+  },
+  {
+    "signature": "302323",
+    "count": 1
+  },
+  {
+    "signature": "303012",
+    "count": 1
+  },
+  {
+    "signature": "303020",
+    "count": 1
+  },
+  {
+    "signature": "303031",
+    "count": 1
+  },
+  {
+    "signature": "303103",
+    "count": 1
+  },
+  {
+    "signature": "303110",
+    "count": 1
+  },
+  {
+    "signature": "303201",
+    "count": 1
+  },
+  {
+    "signature": "303230",
+    "count": 1
+  },
+  {
+    "signature": "303300",
+    "count": 1
+  },
+  {
+    "signature": "310031",
+    "count": 1
+  },
+  {
+    "signature": "310032",
+    "count": 1
+  },
+  {
+    "signature": "310033",
+    "count": 1
+  },
+  {
+    "signature": "310113",
+    "count": 1
+  },
+  {
+    "signature": "310231",
+    "count": 1
+  },
+  {
+    "signature": "310311",
+    "count": 1
+  },
+  {
+    "signature": "310320",
+    "count": 1
+  },
+  {
+    "signature": "310332",
+    "count": 1
+  },
+  {
+    "signature": "311012",
+    "count": 1
+  },
+  {
+    "signature": "311021",
+    "count": 1
+  },
+  {
+    "signature": "311030",
+    "count": 1
+  },
+  {
+    "signature": "311033",
+    "count": 1
+  },
+  {
+    "signature": "311102",
+    "count": 1
+  },
+  {
+    "signature": "311103",
+    "count": 1
+  },
+  {
+    "signature": "311112",
+    "count": 1
+  },
+  {
+    "signature": "311113",
+    "count": 1
+  },
+  {
+    "signature": "311120",
+    "count": 1
+  },
+  {
+    "signature": "311130",
+    "count": 1
+  },
+  {
+    "signature": "311132",
+    "count": 1
+  },
+  {
+    "signature": "311202",
+    "count": 1
+  },
+  {
+    "signature": "311210",
+    "count": 1
+  },
+  {
+    "signature": "311212",
+    "count": 1
+  },
+  {
+    "signature": "311230",
+    "count": 1
+  },
+  {
+    "signature": "311300",
+    "count": 1
+  },
+  {
+    "signature": "311302",
+    "count": 1
+  },
+  {
+    "signature": "312013",
+    "count": 1
+  },
+  {
+    "signature": "312021",
+    "count": 1
+  },
+  {
+    "signature": "312030",
+    "count": 1
+  },
+  {
+    "signature": "312031",
+    "count": 1
+  },
+  {
+    "signature": "312102",
+    "count": 1
+  },
+  {
+    "signature": "312120",
+    "count": 1
+  },
+  {
+    "signature": "312121",
+    "count": 1
+  },
+  {
+    "signature": "312200",
+    "count": 1
+  },
+  {
+    "signature": "312211",
+    "count": 1
+  },
+  {
+    "signature": "312212",
+    "count": 1
+  },
+  {
+    "signature": "312222",
+    "count": 1
+  },
+  {
+    "signature": "312300",
+    "count": 1
+  },
+  {
+    "signature": "312303",
+    "count": 1
+  },
+  {
+    "signature": "312331",
+    "count": 1
+  },
+  {
+    "signature": "313020",
+    "count": 1
+  },
+  {
+    "signature": "313021",
+    "count": 1
+  },
+  {
+    "signature": "313030",
+    "count": 1
+  },
+  {
+    "signature": "313101",
+    "count": 1
+  },
+  {
+    "signature": "313131",
+    "count": 1
+  },
+  {
+    "signature": "313212",
+    "count": 1
+  },
+  {
+    "signature": "313331",
+    "count": 1
+  },
+  {
+    "signature": "320023",
+    "count": 1
+  },
+  {
+    "signature": "320030",
+    "count": 1
+  },
+  {
+    "signature": "320113",
+    "count": 1
+  },
+  {
+    "signature": "320202",
+    "count": 1
+  },
+  {
+    "signature": "320203",
+    "count": 1
+  },
+  {
+    "signature": "320302",
+    "count": 1
+  },
+  {
+    "signature": "320303",
+    "count": 1
+  },
+  {
+    "signature": "320310",
+    "count": 1
+  },
+  {
+    "signature": "320311",
+    "count": 1
+  },
+  {
+    "signature": "320312",
+    "count": 1
+  },
+  {
+    "signature": "320320",
+    "count": 1
+  },
+  {
+    "signature": "320321",
+    "count": 1
+  },
+  {
+    "signature": "321002",
+    "count": 1
+  },
+  {
+    "signature": "321011",
+    "count": 1
+  },
+  {
+    "signature": "321013",
+    "count": 1
+  },
+  {
+    "signature": "321020",
+    "count": 1
+  },
+  {
+    "signature": "321021",
+    "count": 1
+  },
+  {
+    "signature": "321030",
+    "count": 1
+  },
+  {
+    "signature": "321033",
+    "count": 1
+  },
+  {
+    "signature": "321203",
+    "count": 1
+  },
+  {
+    "signature": "321221",
+    "count": 1
+  },
+  {
+    "signature": "321300",
+    "count": 1
+  },
+  {
+    "signature": "321301",
+    "count": 1
+  },
+  {
+    "signature": "321302",
+    "count": 1
+  },
+  {
+    "signature": "321323",
+    "count": 1
+  },
+  {
+    "signature": "322030",
+    "count": 1
+  },
+  {
+    "signature": "322110",
+    "count": 1
+  },
+  {
+    "signature": "322123",
+    "count": 1
+  },
+  {
+    "signature": "322130",
+    "count": 1
+  },
+  {
+    "signature": "322222",
+    "count": 1
+  },
+  {
+    "signature": "323001",
+    "count": 1
+  },
+  {
+    "signature": "323010",
+    "count": 1
+  },
+  {
+    "signature": "323020",
+    "count": 1
+  },
+  {
+    "signature": "323103",
+    "count": 1
+  },
+  {
+    "signature": "323121",
+    "count": 1
+  },
+  {
+    "signature": "323200",
+    "count": 1
+  },
+  {
+    "signature": "323221",
+    "count": 1
+  },
+  {
+    "signature": "323223",
+    "count": 1
+  },
+  {
+    "signature": "323232",
+    "count": 1
+  },
+  {
+    "signature": "323331",
+    "count": 1
+  },
+  {
+    "signature": "330022",
+    "count": 1
+  },
+  {
+    "signature": "330103",
+    "count": 1
+  },
+  {
+    "signature": "330111",
+    "count": 1
+  },
+  {
+    "signature": "330113",
+    "count": 1
+  },
+  {
+    "signature": "330201",
+    "count": 1
+  },
+  {
+    "signature": "330203",
+    "count": 1
+  },
+  {
+    "signature": "330211",
+    "count": 1
+  },
+  {
+    "signature": "330212",
+    "count": 1
+  },
+  {
+    "signature": "330220",
+    "count": 1
+  },
+  {
+    "signature": "330301",
+    "count": 1
+  },
+  {
+    "signature": "330302",
+    "count": 1
+  },
+  {
+    "signature": "330303",
+    "count": 1
+  },
+  {
+    "signature": "330311",
+    "count": 1
+  },
+  {
+    "signature": "330322",
+    "count": 1
+  },
+  {
+    "signature": "331020",
+    "count": 1
+  },
+  {
+    "signature": "331100",
+    "count": 1
+  },
+  {
+    "signature": "331102",
+    "count": 1
+  },
+  {
+    "signature": "331112",
+    "count": 1
+  },
+  {
+    "signature": "331121",
+    "count": 1
+  },
+  {
+    "signature": "331202",
+    "count": 1
+  },
+  {
+    "signature": "331302",
+    "count": 1
+  },
+  {
+    "signature": "332010",
+    "count": 1
+  },
+  {
+    "signature": "332012",
+    "count": 1
+  },
+  {
+    "signature": "332020",
+    "count": 1
+  },
+  {
+    "signature": "332100",
+    "count": 1
+  },
+  {
+    "signature": "332101",
+    "count": 1
+  },
+  {
+    "signature": "332111",
+    "count": 1
+  },
+  {
+    "signature": "332131",
+    "count": 1
+  },
+  {
+    "signature": "332221",
+    "count": 1
+  },
+  {
+    "signature": "332333",
+    "count": 1
+  },
+  {
+    "signature": "333011",
+    "count": 1
+  },
+  {
+    "signature": "333122",
+    "count": 1
+  },
+  {
+    "signature": "333223",
+    "count": 1
+  },
+  {
+    "signature": "333301",
+    "count": 1
+  },
+  {
+    "signature": "333332",
+    "count": 1
+  }
+]
